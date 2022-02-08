@@ -119,7 +119,7 @@ def run_evaluation(evaluation_file,
 
     reader = DatasetReader.from_params(Params(reader_params))
 
-    iterator = DataIterator.from_params(Params({"type": "basic", "batch_size": 16}))
+    iterator = DataIterator.from_params(Params({"type": "basic", "batch_size": 8}))
     iterator.index_with(vocab)
 
     instances = reader.read(evaluation_file)

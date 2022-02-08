@@ -74,7 +74,7 @@ def make_files_for_official_eval(model_archive_file, evaluation_files, output_fi
     vocab_params = archive.config['vocabulary']
     vocab = Vocabulary.from_params(vocab_params)
 
-    iterator = BasicIterator(batch_size=24)
+    iterator = BasicIterator(batch_size=8)
     iterator.index_with(vocab)
 
     fout = open(output_file, 'w')

@@ -49,7 +49,7 @@
     "model": {
         "model": {
             "type": "from_archive",
-            "archive_file": "https://allennlp.s3-us-west-2.amazonaws.com/knowbert/models/knowbert_wiki_wordnet_model.tar.gz",
+            "archive_file": "knowbert_wiki_wordnet_model.tar.gz",
         },
         "type": "simple-classifier",
         "bert_dim": 768,
@@ -59,8 +59,8 @@
         "num_labels": 2,
         "task": "classification"
     },
-    "train_data_path": "/home/matthewp/data/wic/train",
-    "validation_data_path": "/home/matthewp/data/wic/dev",
+    "train_data_path": "/home/scruple/data/wic/train/train",
+    "validation_data_path": "/home/scruple/data/wic/dev/dev",
     "trainer": {
         "cuda_device": 0,
         "gradient_accumulation_batch_size": 32,

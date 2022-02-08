@@ -15,7 +15,7 @@ def go(archive_file, cuda_device, datadir, all_only=True):
     reader_params = config.pop('dataset_reader')
     if reader_params['type'] == 'multitask_reader':
         reader_params = reader_params['dataset_readers']['language_modeling']
-
+    # reader_params['num_workers'] = 0
     validation_reader_params = {
         "type": "kg_probe",
         "tokenizer_and_candidate_generator": reader_params['base_reader']['tokenizer_and_candidate_generator'].as_dict()
@@ -34,6 +34,7 @@ def go(archive_file, cuda_device, datadir, all_only=True):
 
     for fname in sorted(fnames):
         instances = dataset_reader.read(fname)
+        print("start")
         metrics = evaluate(model, instances, iterator, cuda_device, "")
         print("================")
         print(fname)

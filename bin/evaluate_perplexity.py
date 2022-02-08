@@ -29,7 +29,7 @@ def run_evaluation(evaluation_file, model_archive,
     reader_params = params.pop('dataset_reader')
     if reader_params['type'] == 'multitask_reader':
         reader_params = reader_params['dataset_readers']['language_modeling']
-
+    reader_params['num_workers'] = 0
     if random_candidates:
             for k, v in reader_params['base_reader']['tokenizer_and_candidate_generator']['entity_candidate_generators'].items():
                 v['random_candidates'] = True
@@ -51,6 +51,9 @@ def run_evaluation(evaluation_file, model_archive,
 
     for batch_no, batch in enumerate(tqdm.tqdm(iterator(instances, num_epochs=1))):
         b = move_to_device(batch, 0)
+        print(b)
+        print(*b)
+        print(**b)
         loss = model(**b)
         if batch_no % 100 == 0:
             print(model.get_metrics())
@@ -70,4 +73,3 @@ if __name__ == '__main__':
     run_evaluation(args.evaluation_file,
                    model_archive=args.model_archive,
                    random_candidates=False)
-

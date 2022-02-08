@@ -12,6 +12,7 @@ from kb.knowbert import KnowBert, BertPretrainedMaskedLM
 from kb.bert_utils import GeLu
 from kb.wiki_linking_reader import LinkingReader
 from kb.kg_probe_reader import KgProbeReader
+from kb.food_reader import FoodReader
 
 from kb.evaluation.classification_model import SimpleClassifier
 from kb.evaluation.tacred_dataset_reader import TacredDatasetReader
