@@ -42,7 +42,7 @@ pytest -v tests
 
 * [KnowBert-WordNet](https://allennlp.s3-us-west-2.amazonaws.com/knowbert/models/knowbert_wordnet_model.tar.gz)
 * [KnowBert-Wiki](https://allennlp.s3-us-west-2.amazonaws.com/knowbert/models/knowbert_wiki_model.tar.gz)
-* [KnowBert-W+W](https://allennlp.s3-us-west-2.amazonaws.com/knowbert/models/knowbert_wiki_wordnet_model.tar.gz)
+* [KnowBert-W+W](https://allennlp.s3-us-west-2.amazonaws.com/knowbert/models/knowbert_wiki_wordnet_model.tar.gz)    config.json has a redundant comma
 
 ## How to embed sentences or sentence pairs programmatically
 
@@ -108,7 +108,15 @@ python bin/evaluate_mrr.py \
 
 The results are in key `'mrr'`.
 
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
 
+
+python bin/evaluate_food.py \
+    --model_archive $MODEL_ARCHIVE \
+    --datafile ../data/food_compact.tsv \
+    --cuda_device 0
+
+    
 ### Word-sense disambiguation
 
 To evaluate the internal WordNet linker on the ALL task evaluation
