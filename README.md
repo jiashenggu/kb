@@ -80,8 +80,8 @@ First download one of the pretrained models from the previous section.
 Download the [heldout data](https://allennlp.s3-us-west-2.amazonaws.com/knowbert/data/wikipedia_bookscorpus_knowbert_heldout.txt). Then run:
 
 ```
-MODEL_ARCHIVE=..location of model
-HELDOUT_FILE=wikipedia_bookscorpus_knowbert_heldout.txt
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
+HELDOUT_FILE=../data/wikipedia_bookscorpus_knowbert_heldout.txt
 python bin/evaluate_perplexity.py -m $MODEL_ARCHIVE -e $HELDOUT_FILE
 ```
 
@@ -92,7 +92,7 @@ The heldout perplexity is key `exp(lm_loss_wgt)`.
 Run:
 
 ```
-MODEL_ARCHIVE=..location of model
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
 
 mkdir -p kg_probe
 cd kg_probe
@@ -102,7 +102,7 @@ unzip kg_probe.zip
 cd ..
 python bin/evaluate_mrr.py \
     --model_archive $MODEL_ARCHIVE \
-    --datadir kg_probe \
+    --datadir ../data/kg_probe \
     --cuda_device 0
 ```
 
@@ -117,9 +117,9 @@ from Raganato et al. (2017) follow these steps (Table 2).  First download the [J
 Then run this command to generate predictions from KnowBert:
 
 ```
-EVALUATION_FILE=semeval2007_semeval2013_semeval2015_senseval2_senseval3_all.json
+EVALUATION_FILE=../data/semeval2007_semeval2013_semeval2015_senseval2_senseval3_all.json
 KNOWBERT_PREDICTIONS=knowbert_wordnet_predicted.txt
-MODEL_ARCHIVE=..location of model
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
 
 python bin/evaluate_wsd_official.py \
     --evaluation_file $EVALUATION_FILE \
@@ -140,8 +140,8 @@ To reproduce the results in Table 3 for KnowBert-W+W:
 
 ```
 # or aida_test.txt
-EVALUATION_FILE=aida_dev.txt
-MODEL_ARCHIVE=..location of model
+EVALUATION_FILE=../data/aida_dev.txt
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
 
 curl https://allennlp.s3-us-west-2.amazonaws.com/knowbert/wiki_entity_linking/$EVALUATION_FILE > $EVALUATION_FILE
 
