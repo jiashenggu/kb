@@ -80,7 +80,7 @@ First download one of the pretrained models from the previous section.
 Download the [heldout data](https://allennlp.s3-us-west-2.amazonaws.com/knowbert/data/wikipedia_bookscorpus_knowbert_heldout.txt). Then run:
 
 ```
-MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model
 HELDOUT_FILE=../data/wikipedia_bookscorpus_knowbert_heldout.txt
 python bin/evaluate_perplexity.py -m $MODEL_ARCHIVE -e $HELDOUT_FILE
 ```
@@ -92,7 +92,7 @@ The heldout perplexity is key `exp(lm_loss_wgt)`.
 Run:
 
 ```
-MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
+
 
 mkdir -p kg_probe
 cd kg_probe
@@ -100,6 +100,8 @@ curl https://allennlp.s3-us-west-2.amazonaws.com/knowbert/data/kg_probe.zip > kg
 unzip kg_probe.zip
 
 cd ..
+
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model
 python bin/evaluate_mrr.py \
     --model_archive $MODEL_ARCHIVE \
     --datadir ../data/kg_probe \
@@ -108,7 +110,7 @@ python bin/evaluate_mrr.py \
 
 The results are in key `'mrr'`.
 
-MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model
 
 
 python bin/evaluate_food.py \
@@ -116,6 +118,11 @@ python bin/evaluate_food.py \
     --datafile ../data/food_compact.tsv \
     --cuda_device 0
 
+
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model
+python generate_food.py \
+    --model_archive $MODEL_ARCHIVE \
+    --cuda_device 0
     
 ### Word-sense disambiguation
 
@@ -127,7 +134,7 @@ Then run this command to generate predictions from KnowBert:
 ```
 EVALUATION_FILE=../data/semeval2007_semeval2013_semeval2015_senseval2_senseval3_all.json
 KNOWBERT_PREDICTIONS=knowbert_wordnet_predicted.txt
-MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model
 
 python bin/evaluate_wsd_official.py \
     --evaluation_file $EVALUATION_FILE \
@@ -149,7 +156,7 @@ To reproduce the results in Table 3 for KnowBert-W+W:
 ```
 # or aida_test.txt
 EVALUATION_FILE=../data/aida_dev.txt
-MODEL_ARCHIVE=knowbert_wiki_wordnet_model.tar.gz
+MODEL_ARCHIVE=knowbert_wiki_wordnet_model
 
 curl https://allennlp.s3-us-west-2.amazonaws.com/knowbert/wiki_entity_linking/$EVALUATION_FILE > $EVALUATION_FILE
 
