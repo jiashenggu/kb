@@ -58,7 +58,8 @@ class FoodReader(DatasetReader):
                 node1, label, node2 = line.strip().split('\t')
                 # span = tuple(int(x) for x in span_text.split())
                 
-                sentence = node1 + " has " + label + " " + node2
+                sentence = label + " of " +  node1 + " is " + node2
+                # sentence = node1 + " has " + label + ": " + node2
                 span = tuple((len(sentence.split()) - len(node2.split()), len(sentence.split()) - 1))
                 # print(sentence)
                 yield self.text_to_instance(sentence, span)
@@ -69,7 +70,7 @@ class FoodReader(DatasetReader):
         node1, label, node2 = line.strip().split('\t')
         # span = tuple(int(x) for x in span_text.split())
         
-        sentence = node1 + " has " + label + " " + node2
+        sentence = label + " of " +  node1 + " is " + node2
         span = tuple((len(sentence.split()) - len(node2.split()), len(sentence.split()) - 1))
         # print(sentence)
         return self.text_to_instance(sentence, span)
