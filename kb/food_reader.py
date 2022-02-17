@@ -49,6 +49,7 @@ class FoodReader(DatasetReader):
         self._label_indexer = {
             "lm_labels": tokenizer_and_candidate_generator._bert_single_id_indexer["tokens"]
         }
+        # print(self._tokenizer_and_candidate_generator.bert_tokenizer.vocab)
 
     def _read(self, file_path: str):
         with open(cached_path(file_path), 'r') as f:
@@ -57,10 +58,22 @@ class FoodReader(DatasetReader):
                 node1, label, node2 = line.strip().split('\t')
                 # span = tuple(int(x) for x in span_text.split())
                 
-                sentence = node1 + " has " + label + " " + node2
+                sentence = label + " of " +  node1 + " is " + node2
+                # sentence = node1 + " has " + label + ": " + node2
                 span = tuple((len(sentence.split()) - len(node2.split()), len(sentence.split()) - 1))
                 # print(sentence)
                 yield self.text_to_instance(sentence, span)
+
+    def read_food(self, line):
+        # span_text, sentence = line.strip().split('\t')
+        print(line.strip().split('\t'))
+        node1, label, node2 = line.strip().split('\t')
+        # span = tuple(int(x) for x in span_text.split())
+        
+        sentence = label + " of " +  node1 + " is " + node2
+        span = tuple((len(sentence.split()) - len(node2.split()), len(sentence.split()) - 1))
+        # print(sentence)
+        return self.text_to_instance(sentence, span)
 
     def text_to_instance(self, sentence: str, span: Tuple[int, ...]):
         token_candidates = self._tokenizer_and_candidate_generator.tokenize_and_generate_candidates(sentence)

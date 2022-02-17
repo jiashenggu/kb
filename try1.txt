@@ -1,0 +1,140 @@
+================
+0[CLS] paris is the capital of france . [SEP] 
+1[CLS] it is the capital of france . [SEP] 
+2[CLS] toulouse is the capital of france . [SEP] 
+3[CLS] marseille is the capital of france . [SEP] 
+4[CLS] nantes is the capital of france . [SEP] 
+================
+================
+0[CLS] paris is the capital of france . [SEP] 
+1[CLS] paris is the capital of algeria . [SEP] 
+2[CLS] paris is the capital of spain . [SEP] 
+3[CLS] paris is the capital of europe . [SEP] 
+4[CLS] paris is the capital of belgium . [SEP] 
+================
+================
+0[CLS] peter scwee is the president of south africa . [SEP] 
+1[CLS] john katsa is the president of south africa . [SEP] 
+2[CLS] george kobos is the president of south africa . [SEP] 
+3[CLS] david kkoo is the president of south africa . [SEP] 
+4[CLS] robert bhoi is the president of south africa . [SEP] 
+================
+================
+0[CLS] nelson mendela is the president of world university . [SEP] 
+1[CLS] nelson mendela is the president of new africa . [SEP] 
+2[CLS] nelson mendela is the president of liberal zealand . [SEP] 
+3[CLS] nelson mendela is the president of amnesty america . [SEP] 
+4[CLS] nelson mendela is the president of rotary school . [SEP] 
+================
+================
+0[CLS] beijing is the capital of china . [SEP] 
+1[CLS] nanjing is the capital of china . [SEP] 
+2[CLS] shanghai is the capital of china . [SEP] 
+3[CLS] guangzhou is the capital of china . [SEP] 
+4[CLS] it is the capital of china . [SEP] 
+================
+================
+0[CLS] beijing is the capital of china . [SEP] 
+1[CLS] beijing is the capital of india . [SEP] 
+2[CLS] beijing is the capital of prc . [SEP] 
+3[CLS] beijing is the capital of beijing . [SEP] 
+4[CLS] beijing is the capital of taiwan . [SEP] 
+================
+================
+0[CLS] steven paul jobs is the founder of google . [SEP] 
+1[CLS] steven paul jobs is the founder of apple . [SEP] 
+2[CLS] steven paul jobs is the founder of yahoo . [SEP] 
+3[CLS] steven paul jobs is the founder of twitter . [SEP] 
+4[CLS] steven paul jobs is the founder of company . [SEP] 
+================
+================
+0[CLS] ( michael ) is the founder of apple . [SEP] 
+1[CLS] the de cohen is the founder of apple . [SEP] 
+2[CLS] * david . is the founder of apple . [SEP] 
+3[CLS] steve van [UNK] is the founder of apple . [SEP] 
+4[CLS] brian lee mcdonald is the founder of apple . [SEP] 
+================
+================
+0[CLS] xiao qiang was born in the country of qi'an republic of china . [SEP] 
+1[CLS] xiao qiang was born in the country of zann state to korea . [SEP] 
+2[CLS] xiao qiang was born in the country of xiqing province and vietnam . [SEP] 
+3[CLS] xiao qiang was born in the country of wuxig kingdom the india . [SEP] 
+4[CLS] xiao qiang was born in the country of xuhenxi south for guangdong . [SEP] 
+================
+================
+0[CLS] gu jiashen was born in the country of qi'an republic of china . [SEP] 
+1[CLS] gu jiashen was born in the country of xixixi state to korea . [SEP] 
+2[CLS] gu jiashen was born in the country of guann south and vietnam . [SEP] 
+3[CLS] gu jiashen was born in the country of changheng capital the india . [SEP] 
+4[CLS] gu jiashen was born in the country of wushi province for russia . [SEP] 
+================
+================
+0[CLS] the color of bananas is red . [SEP] 
+1[CLS] the color of bananas is white . [SEP] 
+2[CLS] the color of bananas is yellow . [SEP] 
+3[CLS] the color of bananas is green . [SEP] 
+4[CLS] the color of bananas is orange . [SEP] 
+================
+================
+0[CLS] the color of apple is white . [SEP] 
+1[CLS] the color of apple is yellow . [SEP] 
+2[CLS] the color of apple is green . [SEP] 
+3[CLS] the color of apple is red . [SEP] 
+4[CLS] the color of apple is black . [SEP] 
+================
+================
+0[CLS] one of the ingredients of beer is alcohol . [SEP] 
+1[CLS] one of the ingredients of beer is beer . [SEP] 
+2[CLS] one of the ingredients of beer is sugar . [SEP] 
+3[CLS] one of the ingredients of beer is yeast . [SEP] 
+4[CLS] one of the ingredients of beer is vinegar . [SEP] 
+================
+================
+0[CLS] one of the components of a bird is its flight . [SEP] 
+1[CLS] one of the components of a bird is its song . [SEP] 
+2[CLS] one of the components of a bird is its appearance . [SEP] 
+3[CLS] one of the components of a bird is its shape . [SEP] 
+4[CLS] one of the components of a bird is its plumage . [SEP] 
+================
+================
+0[CLS] one of the ingredients of the cake is sugar . [SEP] 
+1[CLS] one of the ingredients of the cake is chocolate . [SEP] 
+2[CLS] one of the ingredients of the cake is butter . [SEP] 
+3[CLS] one of the ingredients of the cake is rice . [SEP] 
+4[CLS] one of the ingredients of the cake is honey . [SEP] 
+================
+================
+0[CLS] one of the ingredients of candy is sugar . [SEP] 
+1[CLS] one of the ingredients of candy is chocolate . [SEP] 
+2[CLS] one of the ingredients of candy is butter . [SEP] 
+3[CLS] one of the ingredients of candy is candy . [SEP] 
+4[CLS] one of the ingredients of candy is honey . [SEP] 
+================
+================
+0[CLS] the taste of coffee is pleasant . [SEP] 
+1[CLS] the taste of coffee is sweet . [SEP] 
+2[CLS] the taste of coffee is bitter . [SEP] 
+3[CLS] the taste of coffee is distinctive . [SEP] 
+4[CLS] the taste of coffee is excellent . [SEP] 
+================
+================
+0[CLS] the taste of curry is sweet . [SEP] 
+1[CLS] the taste of curry is bitter . [SEP] 
+2[CLS] the taste of curry is pleasant . [SEP] 
+3[CLS] the taste of curry is excellent . [SEP] 
+4[CLS] the taste of curry is spicy . [SEP] 
+================
+================
+0[CLS] the shape of the egg is unknown . [SEP] 
+1[CLS] the shape of the egg is variable . [SEP] 
+2[CLS] the shape of the egg is similar . [SEP] 
+3[CLS] the shape of the egg is unique . [SEP] 
+4[CLS] the shape of the egg is unclear . [SEP] 
+================
+================
+0[CLS] one of the ingredients of soy milk is soy milk [SEP] 
+1[CLS] one of the ingredients of soy milk is protein oil [SEP] 
+2[CLS] one of the ingredients of soy milk is sesame sugar [SEP] 
+3[CLS] one of the ingredients of soy milk is vitamin sauce [SEP] 
+4[CLS] one of the ingredients of soy milk is sweet beans [SEP] 
+================

@@ -83,6 +83,7 @@ AIDA Entity linking
          [5, 5]]], device='cuda:0'), 'candidate_segment_ids': tensor([[0, 0, 0, 0, 0]], device='cuda:0')}}, 'lm_label_ids': {'lm_labels': tensor([[  101,  4511,  2038, 13794,  2112, 14722,   102]], device='cuda:0')}, 'mask_indicator': tensor([[0, 0, 0, 0, 0, 1, 0]], device='cuda:0', dtype=torch.uint8)}
 
 ================
-../data/food_compact.tsv
+../data/food_compact.tsv  
+node1 has label node2
 {'total_loss_ema': 6.393383065045276, 'nsp_loss_ema': 0.0, 'lm_loss_ema': 6.393383065045276, 'total_loss': 6.000276795667203, 'nsp_loss': 0, 'lm_loss': 6.000276795667203, 'lm_loss_wgt': 5.961001768938021, 'mrr': 0.036471306748168814, 'nsp_accuracy': 0.0, 'wiki_el_precision': 0.0, 'wiki_el_recall': 0.0, 'wiki_el_f1': 0.0, 'wiki_span_precision': 0.0, 'wiki_span_recall': 0.0, 'wiki_span_f1': 0.0, 'wordnet_el_precision': 0.0, 'wordnet_el_recall': 0.0, 'wordnet_el_f1': 0.0, 'wordnet_span_precision': 0.0, 'wordnet_span_recall': 0.0, 'wordnet_span_f1': 0.0, 'loss': 6.000276795667203}
 ================
