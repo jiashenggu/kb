@@ -36,7 +36,8 @@ Then make sure the tests pass:
 ```
 pytest -v tests
 ```
-
+/data02/wikidata-frame-completion
+kgtk query -i name_birth.tsv -i mother.tsv -i place_birth.tsv -i date_birth.tsv --match "name: (q)-[r:P1477]->(n)" --opt " mother:(q)-[:P25]->(m), place: (q)-[:P19]->(p), date: (q)-[:P569]->(d)" --return "r as Frame_ID, n as Person, m as Mother, p as Place_of_birth, d as Date_of_birth" -o birth_table.tsv
 
 ## Pretrained Models
 
