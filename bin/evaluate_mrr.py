@@ -26,8 +26,9 @@ def go(archive_file, cuda_device, datadir, all_only=True):
         {"type": "basic", "batch_size": 32}
     ))
     iterator.index_with(model.vocab)
-
-    if all_only:
+    if datadir.split('.')[-1] == "tsv":
+        fnames = [datadir]
+    elif all_only:
         fnames = [datadir + '/all.text']
     else:
         fnames = glob.glob(datadir + '/*.text')
