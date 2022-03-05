@@ -1,0 +1,1000 @@
+row:  1
+================
+source:  Selina Keagon gave birth to Cornelius Tuayan Keagon at Monrovia on 06 July 1996 .
+masked:  [MASK] [MASK] [MASK] [MASK] [MASK] gave birth to cornelius tu ##ayan ke ##ago ##n at mon ##rov ##ia on 06 july 1996 .
+0     :  tua ke ,n gave birth to cornelius tuayan keagon at monrovia on 06 july 1996 .
+1     :  kei tuago she gave birth to cornelius tuayan keagon at monrovia on 06 july 1996 .
+2     :  drn ,goa gave birth to cornelius tuayan keagon at monrovia on 06 july 1996 .
+3     :  tamina kiaman gave birth to cornelius tuayan keagon at monrovia on 06 july 1996 .
+4     :  kian kahian gave birth to cornelius tuayan keagon at monrovia on 06 july 1996 .
+================
+row:  2
+================
+source:  Selina Keagon gave birth to Cornelius Tuayan Keagon at Monrovia on 06 July 1996 .
+masked:  se ##lina ke ##ago ##n gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] at mon ##rov ##ia on 06 july 1996 .
+0     :  selina keagon gave birth to danny ken keagon at monrovia on 06 july 1996 .
+1     :  selina keagon gave birth to alex ki kengoa at monrovia on 06 july 1996 .
+2     :  selina keagon gave birth to william kamkamon at monrovia on 06 july 1996 .
+3     :  selina keagon gave birth to nathan andkahnan at monrovia on 06 july 1996 .
+4     :  selina keagon gave birth to eric kankeng , at monrovia on 06 july 1996 .
+================
+row:  3
+================
+source:  Selina Keagon gave birth to Cornelius Tuayan Keagon at Monrovia on 06 July 1996 .
+masked:  se ##lina ke ##ago ##n gave birth to cornelius tu ##ayan ke ##ago ##n at [MASK] [MASK] [MASK] on 06 july 1996 .
+0     :  selina keagon gave birth to cornelius tuayan keagon at kebuong on 06 july 1996 .
+1     :  selina keagon gave birth to cornelius tuayan keagon at tualas on 06 july 1996 .
+2     :  selina keagon gave birth to cornelius tuayan keagon at horbaa on 06 july 1996 .
+3     :  selina keagon gave birth to cornelius tuayan keagon at kmaln on 06 july 1996 .
+4     :  selina keagon gave birth to cornelius tuayan keagon at murgah on 06 july 1996 .
+================
+row:  4
+================
+source:  Selina Keagon gave birth to Cornelius Tuayan Keagon at Monrovia on 06 July 1996 .
+masked:  se ##lina ke ##ago ##n gave birth to cornelius tu ##ayan ke ##ago ##n at mon ##rov ##ia on [MASK] [MASK] [MASK] .
+0     :  selina keagon gave birth to cornelius tuayan keagon at monrovia on the march 2010 .
+1     :  selina keagon gave birth to cornelius tuayan keagon at monrovia on 2007 december 2012 .
+2     :  selina keagon gave birth to cornelius tuayan keagon at monrovia on 01 august 2009 .
+3     :  selina keagon gave birth to cornelius tuayan keagon at monrovia on 2005 november 2008 .
+4     :  selina keagon gave birth to cornelius tuayan keagon at monrovia on 11 september 2011 .
+================
+row:  5
+================
+source:  Ann Astaire gave birth to Frederick Austerlit at Omaha on 10 May 1899 .
+masked:  [MASK] [MASK] [MASK] [MASK] gave birth to frederick aus ##ter ##lit at omaha on 10 may 1899 .
+0     :  the crtere gave birth to frederick austerlit at omaha on 10 may 1899 .
+1     :  emma sctria gave birth to frederick austerlit at omaha on 10 may 1899 .
+2     :  marie elperle gave birth to frederick austerlit at omaha on 10 may 1899 .
+3     :  louise ausebl gave birth to frederick austerlit at omaha on 10 may 1899 .
+4     :  agnes priolly gave birth to frederick austerlit at omaha on 10 may 1899 .
+================
+row:  6
+================
+source:  Ann Astaire gave birth to Frederick Austerlit at Omaha on 10 May 1899 .
+masked:  ann as ##tai ##re gave birth to [MASK] [MASK] [MASK] [MASK] at omaha on 10 may 1899 .
+0     :  ann astaire gave birth to john andree at omaha on 10 may 1899 .
+1     :  ann astaire gave birth to george ,toer at omaha on 10 may 1899 .
+2     :  ann astaire gave birth to charles kele , at omaha on 10 may 1899 .
+3     :  ann astaire gave birth to james toers at omaha on 10 may 1899 .
+4     :  ann astaire gave birth to henry muiey at omaha on 10 may 1899 .
+================
+row:  7
+================
+source:  Ann Astaire gave birth to Frederick Austerlit at Omaha on 10 May 1899 .
+masked:  ann as ##tai ##re gave birth to frederick aus ##ter ##lit at [MASK] on 10 may 1899 .
+0     :  ann astaire gave birth to frederick austerlit at brighton on 10 may 1899 .
+1     :  ann astaire gave birth to frederick austerlit at windsor on 10 may 1899 .
+2     :  ann astaire gave birth to frederick austerlit at liverpool on 10 may 1899 .
+3     :  ann astaire gave birth to frederick austerlit at melbourne on 10 may 1899 .
+4     :  ann astaire gave birth to frederick austerlit at newmarket on 10 may 1899 .
+================
+row:  8
+================
+source:  Ann Astaire gave birth to Frederick Austerlit at Omaha on 10 May 1899 .
+masked:  ann as ##tai ##re gave birth to frederick aus ##ter ##lit at omaha on [MASK] [MASK] [MASK] .
+0     :  ann astaire gave birth to frederick austerlit at omaha on 16 july 1865 .
+1     :  ann astaire gave birth to frederick austerlit at omaha on 17 august 1901 .
+2     :  ann astaire gave birth to frederick austerlit at omaha on 26 september 1902 .
+3     :  ann astaire gave birth to frederick austerlit at omaha on 25 march 1861 .
+4     :  ann astaire gave birth to frederick austerlit at omaha on 18 may 1899 .
+================
+row:  9
+================
+source:  Judy Murray gave birth to Andrew Barron Murray at Glasgow on 15 May 1987 .
+masked:  [MASK] [MASK] gave birth to andrew barron murray at glasgow on 15 may 1987 .
+0     :  the mother gave birth to andrew barron murray at glasgow on 15 may 1987 .
+1     :  her daughter gave birth to andrew barron murray at glasgow on 15 may 1987 .
+2     :  his wife gave birth to andrew barron murray at glasgow on 15 may 1987 .
+3     :  margaret murray gave birth to andrew barron murray at glasgow on 15 may 1987 .
+4     :  she bride gave birth to andrew barron murray at glasgow on 15 may 1987 .
+================
+row:  10
+================
+source:  Judy Murray gave birth to Andrew Barron Murray at Glasgow on 15 May 1987 .
+masked:  judy murray gave birth to [MASK] [MASK] [MASK] at glasgow on 15 may 1987 .
+0     :  judy murray gave birth to john ann murray at glasgow on 15 may 1987 .
+1     :  judy murray gave birth to david neil alexander at glasgow on 15 may 1987 .
+2     :  judy murray gave birth to james alan james at glasgow on 15 may 1987 .
+3     :  judy murray gave birth to sir margaret stewart at glasgow on 15 may 1987 .
+4     :  judy murray gave birth to michael richard campbell at glasgow on 15 may 1987 .
+================
+row:  11
+================
+source:  Judy Murray gave birth to Andrew Barron Murray at Glasgow on 15 May 1987 .
+masked:  judy murray gave birth to andrew barron murray at [MASK] on 15 may 1987 .
+0     :  judy murray gave birth to andrew barron murray at melbourne on 15 may 1987 .
+1     :  judy murray gave birth to andrew barron murray at brisbane on 15 may 1987 .
+2     :  judy murray gave birth to andrew barron murray at sydney on 15 may 1987 .
+3     :  judy murray gave birth to andrew barron murray at perth on 15 may 1987 .
+4     :  judy murray gave birth to andrew barron murray at adelaide on 15 may 1987 .
+================
+row:  12
+================
+source:  Judy Murray gave birth to Andrew Barron Murray at Glasgow on 15 May 1987 .
+masked:  judy murray gave birth to andrew barron murray at glasgow on [MASK] [MASK] [MASK] .
+0     :  judy murray gave birth to andrew barron murray at glasgow on 17 december 2010 .
+1     :  judy murray gave birth to andrew barron murray at glasgow on 29 september 2008 .
+2     :  judy murray gave birth to andrew barron murray at glasgow on 1 november 2009 .
+3     :  judy murray gave birth to andrew barron murray at glasgow on 10 june 2011 .
+4     :  judy murray gave birth to andrew barron murray at glasgow on 3 april 2007 .
+================
+row:  13
+================
+source:  Victoria Herbert, Countess of Pembroke gave birth to The Honourable Louis Charles Alexander Herbert at Salisbury District Hospital on 20 September 2014 .
+masked:  [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 20 september 2014 .
+0     :  in , the lady of herbert gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 20 september 2014 .
+1     :  after to her mrs and elizabeth gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 20 september 2014 .
+2     :  born of his elizabeth the queen gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 20 september 2014 .
+3     :  according with and queen his victoria gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 20 september 2014 .
+4     :  at and of son her grace gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 20 september 2014 .
+================
+row:  14
+================
+source:  Victoria Herbert, Countess of Pembroke gave birth to The Honourable Louis Charles Alexander Herbert at Salisbury District Hospital on 20 September 2014 .
+masked:  victoria herbert ##, countess of pembroke gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] at salisbury district hospital on 20 september 2014 .
+0     :  victoria herbert, countess of pembroke gave birth to the elizabeth lady lady elizabeth died at salisbury district hospital on 20 september 2014 .
+1     :  victoria herbert, countess of pembroke gave birth to his son aged lord james born at salisbury district hospital on 20 september 2014 .
+2     :  victoria herbert, countess of pembroke gave birth to her child elizabeth royal john ward at salisbury district hospital on 20 september 2014 .
+3     :  victoria herbert, countess of pembroke gave birth to their james a a child elizabeth at salisbury district hospital on 20 september 2014 .
+4     :  victoria herbert, countess of pembroke gave birth to william john lord heart herbert child at salisbury district hospital on 20 september 2014 .
+================
+row:  15
+================
+source:  Victoria Herbert, Countess of Pembroke gave birth to The Honourable Louis Charles Alexander Herbert at Salisbury District Hospital on 20 September 2014 .
+masked:  victoria herbert ##, countess of pembroke gave birth to the honourable louis charles alexander herbert at [MASK] [MASK] [MASK] on 20 september 2014 .
+0     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at westminster westminster hospital on 20 september 2014 .
+1     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at queen park palace on 20 september 2014 .
+2     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at london royal park on 20 september 2014 .
+3     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at royal windsor cathedral on 20 september 2014 .
+4     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at windsor city airport on 20 september 2014 .
+================
+row:  16
+================
+source:  Victoria Herbert, Countess of Pembroke gave birth to The Honourable Louis Charles Alexander Herbert at Salisbury District Hospital on 20 September 2014 .
+masked:  victoria herbert ##, countess of pembroke gave birth to the honourable louis charles alexander herbert at salisbury district hospital on [MASK] [MASK] [MASK] .
+0     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 16 july 1918 .
+1     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 25 april 1912 .
+2     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 17 march 1916 .
+3     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 10 may 1899 .
+4     :  victoria herbert, countess of pembroke gave birth to the honourable louis charles alexander herbert at salisbury district hospital on 26 june 1902 .
+================
+row:  17
+================
+source:  Elizabeth Inglis gave birth to Susan Alexandra Weaver at New York City on 08 October 1949 .
+masked:  [MASK] [MASK] [MASK] gave birth to susan alexandra weaver at new york city on 08 october 1949 .
+0     :  mary coman gave birth to susan alexandra weaver at new york city on 08 october 1949 .
+1     :  lady henley gave birth to susan alexandra weaver at new york city on 08 october 1949 .
+2     :  elizabeth harts gave birth to susan alexandra weaver at new york city on 08 october 1949 .
+3     :  ruth meron gave birth to susan alexandra weaver at new york city on 08 october 1949 .
+4     :  john giller gave birth to susan alexandra weaver at new york city on 08 october 1949 .
+================
+row:  18
+================
+source:  Elizabeth Inglis gave birth to Susan Alexandra Weaver at New York City on 08 October 1949 .
+masked:  elizabeth ing ##lis gave birth to [MASK] [MASK] [MASK] at new york city on 08 october 1949 .
+0     :  elizabeth inglis gave birth to william william alexander at new york city on 08 october 1949 .
+1     :  elizabeth inglis gave birth to richard richard smith at new york city on 08 october 1949 .
+2     :  elizabeth inglis gave birth to harold kenneth kennedy at new york city on 08 october 1949 .
+3     :  elizabeth inglis gave birth to alan alan williams at new york city on 08 october 1949 .
+4     :  elizabeth inglis gave birth to brian allan young at new york city on 08 october 1949 .
+================
+row:  19
+================
+source:  Elizabeth Inglis gave birth to Susan Alexandra Weaver at New York City on 08 October 1949 .
+masked:  elizabeth ing ##lis gave birth to susan alexandra weaver at [MASK] [MASK] [MASK] on 08 october 1949 .
+0     :  elizabeth inglis gave birth to susan alexandra weaver at new city hospital on 08 october 1949 .
+1     :  elizabeth inglis gave birth to susan alexandra weaver at oxford york wales on 08 october 1949 .
+2     :  elizabeth inglis gave birth to susan alexandra weaver at london war park on 08 october 1949 .
+3     :  elizabeth inglis gave birth to susan alexandra weaver at westminster new palace on 08 october 1949 .
+4     :  elizabeth inglis gave birth to susan alexandra weaver at cambridge park house on 08 october 1949 .
+================
+row:  20
+================
+source:  Elizabeth Inglis gave birth to Susan Alexandra Weaver at New York City on 08 October 1949 .
+masked:  elizabeth ing ##lis gave birth to susan alexandra weaver at new york city on [MASK] [MASK] [MASK] .
+0     :  elizabeth inglis gave birth to susan alexandra weaver at new york city on the february 1915 .
+1     :  elizabeth inglis gave birth to susan alexandra weaver at new york city on jul may 1918 .
+2     :  elizabeth inglis gave birth to susan alexandra weaver at new york city on $ august 1912 .
+3     :  elizabeth inglis gave birth to susan alexandra weaver at new york city on [UNK] july 1942 .
+4     :  elizabeth inglis gave birth to susan alexandra weaver at new york city on jun october 1916 .
+================
+row:  21
+================
+source:  Sarah Rinehart gave birth to Elias Lafayette Rinehart at Mississippi on 01 January 1836 .
+masked:  [MASK] [MASK] [MASK] [MASK] gave birth to elias lafayette ri ##ne ##hart at mississippi on 01 january 1836 .
+0     :  in rinehart gave birth to elias lafayette rinehart at mississippi on 01 january 1836 .
+1     :  sarah roneae gave birth to elias lafayette rinehart at mississippi on 01 january 1836 .
+2     :  mary cronnea gave birth to elias lafayette rinehart at mississippi on 01 january 1836 .
+3     :  anna hibeh gave birth to elias lafayette rinehart at mississippi on 01 january 1836 .
+4     :  after dinnnene gave birth to elias lafayette rinehart at mississippi on 01 january 1836 .
+================
+row:  22
+================
+source:  Sarah Rinehart gave birth to Elias Lafayette Rinehart at Mississippi on 01 January 1836 .
+masked:  sarah ri ##ne ##hart gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] at mississippi on 01 january 1836 .
+0     :  sarah rinehart gave birth to william john rinehart at mississippi on 01 january 1836 .
+1     :  sarah rinehart gave birth to nathaniel james robee at mississippi on 01 january 1836 .
+2     :  sarah rinehart gave birth to richard thomas hirea at mississippi on 01 january 1836 .
+3     :  sarah rinehart gave birth to francis george muneaz at mississippi on 01 january 1836 .
+4     :  sarah rinehart gave birth to nathan henry rulewood at mississippi on 01 january 1836 .
+================
+row:  23
+================
+source:  Sarah Rinehart gave birth to Elias Lafayette Rinehart at Mississippi on 01 January 1836 .
+masked:  sarah ri ##ne ##hart gave birth to elias lafayette ri ##ne ##hart at [MASK] on 01 january 1836 .
+0     :  sarah rinehart gave birth to elias lafayette rinehart at philadelphia on 01 january 1836 .
+1     :  sarah rinehart gave birth to elias lafayette rinehart at albany on 01 january 1836 .
+2     :  sarah rinehart gave birth to elias lafayette rinehart at savannah on 01 january 1836 .
+3     :  sarah rinehart gave birth to elias lafayette rinehart at salem on 01 january 1836 .
+4     :  sarah rinehart gave birth to elias lafayette rinehart at boston on 01 january 1836 .
+================
+row:  24
+================
+source:  Sarah Rinehart gave birth to Elias Lafayette Rinehart at Mississippi on 01 January 1836 .
+masked:  sarah ri ##ne ##hart gave birth to elias lafayette ri ##ne ##hart at mississippi on [MASK] [MASK] [MASK] .
+0     :  sarah rinehart gave birth to elias lafayette rinehart at mississippi on the february 1865 .
+1     :  sarah rinehart gave birth to elias lafayette rinehart at mississippi on $ august 1849 .
+2     :  sarah rinehart gave birth to elias lafayette rinehart at mississippi on jul may 1836 .
+3     :  sarah rinehart gave birth to elias lafayette rinehart at mississippi on 17 july 1804 .
+4     :  sarah rinehart gave birth to elias lafayette rinehart at mississippi on [UNK] october 1805 .
+================
+row:  25
+================
+source:  Camilla Thorp gave birth to Lady Olympia Arabella Kitty Spencer-Churchill at Portland Hospital on 10 September 2020 .
+masked:  [MASK] [MASK] [MASK] gave birth to lady olympia arab ##ella kitty spencer ##- ##church ##ill at portland hospital on 10 september 2020 .
+0     :  the arabella gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 10 september 2020 .
+1     :  emily hamell gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 10 september 2020 .
+2     :  sophie arabsle gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 10 september 2020 .
+3     :  olivia alel gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 10 september 2020 .
+4     :  william adleigh gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 10 september 2020 .
+================
+row:  26
+================
+source:  Camilla Thorp gave birth to Lady Olympia Arabella Kitty Spencer-Churchill at Portland Hospital on 10 September 2020 .
+masked:  camilla thor ##p gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] at portland hospital on 10 september 2020 .
+0     :  camilla thorp gave birth to son son and , son daughter , , , at portland hospital on 10 september 2020 .
+1     :  camilla thorp gave birth to daughter james - and daughter son of ande at portland hospital on 10 september 2020 .
+2     :  camilla thorp gave birth to twins daughter (. d child and hers at portland hospital on 10 september 2020 .
+3     :  camilla thorp gave birth to twin john ,s in born to.d at portland hospital on 10 september 2020 .
+4     :  camilla thorp gave birth to baby elizabeth toe born died for hima at portland hospital on 10 september 2020 .
+================
+row:  27
+================
+source:  Camilla Thorp gave birth to Lady Olympia Arabella Kitty Spencer-Churchill at Portland Hospital on 10 September 2020 .
+masked:  camilla thor ##p gave birth to lady olympia arab ##ella kitty spencer ##- ##church ##ill at [MASK] [MASK] on 10 september 2020 .
+0     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at windsor house on 10 september 2020 .
+1     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at age park on 10 september 2020 .
+2     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at westminster hospital on 10 september 2020 .
+3     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at hampton bay on 10 september 2020 .
+4     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at brighton palace on 10 september 2020 .
+================
+row:  28
+================
+source:  Camilla Thorp gave birth to Lady Olympia Arabella Kitty Spencer-Churchill at Portland Hospital on 10 September 2020 .
+masked:  camilla thor ##p gave birth to lady olympia arab ##ella kitty spencer ##- ##church ##ill at portland hospital on [MASK] [MASK] [MASK] .
+0     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 16 july 2015 .
+1     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 17 march 2014 .
+2     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 13 may 2016 .
+3     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 25 april 2013 .
+4     :  camilla thorp gave birth to lady olympia arabella kitty spencer-churchill at portland hospital on 26 october 1959 .
+================
+row:  29
+================
+source:  Frances Emily Stewart gave birth to George Evelyn Augustus Townley Sothern at Kensington on 01 January 1866 .
+masked:  [MASK] [MASK] [MASK] gave birth to george evelyn augustus town ##ley so ##ther ##n at kensington on 01 january 1866 .
+0     :  evelyn evelyn mary gave birth to george evelyn augustus townley sothern at kensington on 01 january 1866 .
+1     :  marie - victoria gave birth to george evelyn augustus townley sothern at kensington on 01 january 1866 .
+2     :  frances louisa augusta gave birth to george evelyn augustus townley sothern at kensington on 01 january 1866 .
+3     :  louisa maud caroline gave birth to george evelyn augustus townley sothern at kensington on 01 january 1866 .
+4     :  * eliza charlotte gave birth to george evelyn augustus townley sothern at kensington on 01 january 1866 .
+================
+row:  30
+================
+source:  Frances Emily Stewart gave birth to George Evelyn Augustus Townley Sothern at Kensington on 01 January 1866 .
+masked:  frances emily stewart gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] at kensington on 01 january 1866 .
+0     :  frances emily stewart gave birth to charles william stewart , , ,t , at kensington on 01 january 1866 .
+1     :  frances emily stewart gave birth to george emily alexander and. andere at kensington on 01 january 1866 .
+2     :  frances emily stewart gave birth to john jane john. and.res at kensington on 01 january 1866 .
+3     :  frances emily stewart gave birth to james ( stuart ofttet at kensington on 01 january 1866 .
+4     :  frances emily stewart gave birth to henry francis james()erld at kensington on 01 january 1866 .
+================
+row:  31
+================
+source:  Frances Emily Stewart gave birth to George Evelyn Augustus Townley Sothern at Kensington on 01 January 1866 .
+masked:  frances emily stewart gave birth to george evelyn augustus town ##ley so ##ther ##n at [MASK] on 01 january 1866 .
+0     :  frances emily stewart gave birth to george evelyn augustus townley sothern at southampton on 01 january 1866 .
+1     :  frances emily stewart gave birth to george evelyn augustus townley sothern at ipswich on 01 january 1866 .
+2     :  frances emily stewart gave birth to george evelyn augustus townley sothern at hampstead on 01 january 1866 .
+3     :  frances emily stewart gave birth to george evelyn augustus townley sothern at marylebone on 01 january 1866 .
+4     :  frances emily stewart gave birth to george evelyn augustus townley sothern at norwich on 01 january 1866 .
+================
+row:  32
+================
+source:  Frances Emily Stewart gave birth to George Evelyn Augustus Townley Sothern at Kensington on 01 January 1866 .
+masked:  frances emily stewart gave birth to george evelyn augustus town ##ley so ##ther ##n at kensington on [MASK] [MASK] [MASK] .
+0     :  frances emily stewart gave birth to george evelyn augustus townley sothern at kensington on the february 1878 .
+1     :  frances emily stewart gave birth to george evelyn augustus townley sothern at kensington on st july 1902 .
+2     :  frances emily stewart gave birth to george evelyn augustus townley sothern at kensington on 11 march 1899 .
+3     :  frances emily stewart gave birth to george evelyn augustus townley sothern at kensington on 17 may 1901 .
+4     :  frances emily stewart gave birth to george evelyn augustus townley sothern at kensington on 28 june 1858 .
+================
+row:  33
+================
+source:  Caroline Wolcott Andrews gave birth to Richard Buckminster Fuller at Milton on 12 July 1895 .
+masked:  [MASK] [MASK] [MASK] [MASK] [MASK] gave birth to richard buck ##minster fuller at milton on 12 july 1895 .
+0     :  after buck.. fuller gave birth to richard buckminster fuller at milton on 12 july 1895 .
+1     :  in gilinde wife gave birth to richard buckminster fuller at milton on 12 july 1895 .
+2     :  at w'ne elizabeth gave birth to richard buckminster fuller at milton on 12 july 1895 .
+3     :  mary heminstert palmer gave birth to richard buckminster fuller at milton on 12 july 1895 .
+4     :  by chada mary gave birth to richard buckminster fuller at milton on 12 july 1895 .
+================
+row:  34
+================
+source:  Caroline Wolcott Andrews gave birth to Richard Buckminster Fuller at Milton on 12 July 1895 .
+masked:  caroline wo ##lco ##tt andrews gave birth to [MASK] [MASK] [MASK] [MASK] at milton on 12 july 1895 .
+0     :  caroline wolcott andrews gave birth to william '. andrews at milton on 12 july 1895 .
+1     :  caroline wolcott andrews gave birth to francis wos clark at milton on 12 july 1895 .
+2     :  caroline wolcott andrews gave birth to margaret hott ii at milton on 12 july 1895 .
+3     :  caroline wolcott andrews gave birth to richard wt churchill at milton on 12 july 1895 .
+4     :  caroline wolcott andrews gave birth to ernest coton james at milton on 12 july 1895 .
+================
+row:  35
+================
+source:  Caroline Wolcott Andrews gave birth to Richard Buckminster Fuller at Milton on 12 July 1895 .
+masked:  caroline wo ##lco ##tt andrews gave birth to richard buck ##minster fuller at [MASK] on 12 july 1895 .
+0     :  caroline wolcott andrews gave birth to richard buckminster fuller at liverpool on 12 july 1895 .
+1     :  caroline wolcott andrews gave birth to richard buckminster fuller at london on 12 july 1895 .
+2     :  caroline wolcott andrews gave birth to richard buckminster fuller at brighton on 12 july 1895 .
+3     :  caroline wolcott andrews gave birth to richard buckminster fuller at westminster on 12 july 1895 .
+4     :  caroline wolcott andrews gave birth to richard buckminster fuller at windsor on 12 july 1895 .
+================
+row:  36
+================
+source:  Caroline Wolcott Andrews gave birth to Richard Buckminster Fuller at Milton on 12 July 1895 .
+masked:  caroline wo ##lco ##tt andrews gave birth to richard buck ##minster fuller at milton on [MASK] [MASK] [MASK] .
+0     :  caroline wolcott andrews gave birth to richard buckminster fuller at milton on 1 june 1865 .
+1     :  caroline wolcott andrews gave birth to richard buckminster fuller at milton on 4 april 1888 .
+2     :  caroline wolcott andrews gave birth to richard buckminster fuller at milton on 2 july 1910 .
+3     :  caroline wolcott andrews gave birth to richard buckminster fuller at milton on 29 march 1848 .
+4     :  caroline wolcott andrews gave birth to richard buckminster fuller at milton on 19 may 1906 .
+================
+row:  37
+================
+source:  Pauline Alice Evans gave birth to Farrah Leni Fawcett at Corpus Christi on 02 February 1947 .
+masked:  [MASK] [MASK] [MASK] gave birth to far ##rah len ##i fa ##wc ##ett at corpus christi on 02 february 1947 .
+0     :  mary - jones gave birth to farrah leni fawcett at corpus christi on 02 february 1947 .
+1     :  in . smith gave birth to farrah leni fawcett at corpus christi on 02 february 1947 .
+2     :  lady – mary gave birth to farrah leni fawcett at corpus christi on 02 february 1947 .
+3     :  mrs / williams gave birth to farrah leni fawcett at corpus christi on 02 february 1947 .
+4     :  sister mildred he gave birth to farrah leni fawcett at corpus christi on 02 february 1947 .
+================
+row:  38
+================
+source:  Pauline Alice Evans gave birth to Farrah Leni Fawcett at Corpus Christi on 02 February 1947 .
+masked:  pauline alice evans gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] at corpus christi on 02 february 1947 .
+0     :  pauline alice evans gave birth to dr. w.''s at corpus christi on 02 february 1947 .
+1     :  pauline alice evans gave birth to ede co'.une at corpus christi on 02 february 1947 .
+2     :  pauline alice evans gave birth to wilh drllisa at corpus christi on 02 february 1947 .
+3     :  pauline alice evans gave birth to jea ettderon at corpus christi on 02 february 1947 .
+4     :  pauline alice evans gave birth to stl glh.y at corpus christi on 02 february 1947 .
+================
+row:  39
+================
+source:  Pauline Alice Evans gave birth to Farrah Leni Fawcett at Corpus Christi on 02 February 1947 .
+masked:  pauline alice evans gave birth to far ##rah len ##i fa ##wc ##ett at [MASK] [MASK] on 02 february 1947 .
+0     :  pauline alice evans gave birth to farrah leni fawcett at saint hague on 02 february 1947 .
+1     :  pauline alice evans gave birth to farrah leni fawcett at cape trafford on 02 february 1947 .
+2     :  pauline alice evans gave birth to farrah leni fawcett at mount havre on 02 february 1947 .
+3     :  pauline alice evans gave birth to farrah leni fawcett at princess barbara on 02 february 1947 .
+4     :  pauline alice evans gave birth to farrah leni fawcett at santa gardens on 02 february 1947 .
+================
+row:  40
+================
+source:  Pauline Alice Evans gave birth to Farrah Leni Fawcett at Corpus Christi on 02 February 1947 .
+masked:  pauline alice evans gave birth to far ##rah len ##i fa ##wc ##ett at corpus christi on [MASK] [MASK] [MASK] .
+0     :  pauline alice evans gave birth to farrah leni fawcett at corpus christi on 2009 december 2010 .
+1     :  pauline alice evans gave birth to farrah leni fawcett at corpus christi on 2008 november 2012 .
+2     :  pauline alice evans gave birth to farrah leni fawcett at corpus christi on 2011 october 2009 .
+3     :  pauline alice evans gave birth to farrah leni fawcett at corpus christi on ' september 2008 .
+4     :  pauline alice evans gave birth to farrah leni fawcett at corpus christi on 2007 february 2011 .
+================
+row:  41
+================
+source:  Janet Ross gave birth to Donald McLennan at Inverness on 26 October 1833 .
+masked:  [MASK] [MASK] gave birth to donald mc ##len ##nan at inverness on 26 october 1833 .
+0     :  margaret mary gave birth to donald mclennan at inverness on 26 october 1833 .
+1     :  she elizabeth gave birth to donald mclennan at inverness on 26 october 1833 .
+2     :  janet later gave birth to donald mclennan at inverness on 26 october 1833 .
+3     :  agnes catherine gave birth to donald mclennan at inverness on 26 october 1833 .
+4     :  her helen gave birth to donald mclennan at inverness on 26 october 1833 .
+================
+row:  42
+================
+source:  Janet Ross gave birth to Donald McLennan at Inverness on 26 October 1833 .
+masked:  janet ross gave birth to [MASK] [MASK] [MASK] [MASK] at inverness on 26 october 1833 .
+0     :  janet ross gave birth to william anddere at inverness on 26 october 1833 .
+1     :  janet ross gave birth to richard ,ie , at inverness on 26 october 1833 .
+2     :  janet ross gave birth to janet maclie at inverness on 26 october 1833 .
+3     :  janet ross gave birth to archibald mcern at inverness on 26 october 1833 .
+4     :  janet ross gave birth to allan kinys at inverness on 26 october 1833 .
+================
+row:  43
+================
+source:  Janet Ross gave birth to Donald McLennan at Inverness on 26 October 1833 .
+masked:  janet ross gave birth to donald mc ##len ##nan at [MASK] on 26 october 1833 .
+0     :  janet ross gave birth to donald mclennan at stirling on 26 october 1833 .
+1     :  janet ross gave birth to donald mclennan at inverness on 26 october 1833 .
+2     :  janet ross gave birth to donald mclennan at leith on 26 october 1833 .
+3     :  janet ross gave birth to donald mclennan at dundee on 26 october 1833 .
+4     :  janet ross gave birth to donald mclennan at elgin on 26 october 1833 .
+================
+row:  44
+================
+source:  Janet Ross gave birth to Donald McLennan at Inverness on 26 October 1833 .
+masked:  janet ross gave birth to donald mc ##len ##nan at inverness on [MASK] [MASK] [MASK] .
+0     :  janet ross gave birth to donald mclennan at inverness on 16 april 1916 .
+1     :  janet ross gave birth to donald mclennan at inverness on 17 july 1944 .
+2     :  janet ross gave birth to donald mclennan at inverness on 20 may 1935 .
+3     :  janet ross gave birth to donald mclennan at inverness on 21 march 1877 .
+4     :  janet ross gave birth to donald mclennan at inverness on 26 september 1936 .
+================
+row:  45
+================
+source:  Elizabeth Ruth Stewart gave birth to James Maitland Stewart at Indiana County on 20 May 1908 .
+masked:  [MASK] [MASK] [MASK] gave birth to james maitland stewart at indiana county on 20 may 1908 .
+0     :  lady mary stewart gave birth to james maitland stewart at indiana county on 20 may 1908 .
+1     :  a elizabeth elizabeth gave birth to james maitland stewart at indiana county on 20 may 1908 .
+2     :  miss helen mary gave birth to james maitland stewart at indiana county on 20 may 1908 .
+3     :  mary lady lady gave birth to james maitland stewart at indiana county on 20 may 1908 .
+4     :  in james stuart gave birth to james maitland stewart at indiana county on 20 may 1908 .
+================
+row:  46
+================
+source:  Elizabeth Ruth Stewart gave birth to James Maitland Stewart at Indiana County on 20 May 1908 .
+masked:  elizabeth ruth stewart gave birth to [MASK] [MASK] [MASK] at indiana county on 20 may 1908 .
+0     :  elizabeth ruth stewart gave birth to john james stewart at indiana county on 20 may 1908 .
+1     :  elizabeth ruth stewart gave birth to james edward ii at indiana county on 20 may 1908 .
+2     :  elizabeth ruth stewart gave birth to charles john wayne at indiana county on 20 may 1908 .
+3     :  elizabeth ruth stewart gave birth to henry henry roosevelt at indiana county on 20 may 1908 .
+4     :  elizabeth ruth stewart gave birth to george ruth smith at indiana county on 20 may 1908 .
+================
+row:  47
+================
+source:  Elizabeth Ruth Stewart gave birth to James Maitland Stewart at Indiana County on 20 May 1908 .
+masked:  elizabeth ruth stewart gave birth to james maitland stewart at [MASK] [MASK] on 20 may 1908 .
+0     :  elizabeth ruth stewart gave birth to james maitland stewart at windsor park on 20 may 1908 .
+1     :  elizabeth ruth stewart gave birth to james maitland stewart at westminster hospital on 20 may 1908 .
+2     :  elizabeth ruth stewart gave birth to james maitland stewart at port hill on 20 may 1908 .
+3     :  elizabeth ruth stewart gave birth to james maitland stewart at victoria house on 20 may 1908 .
+4     :  elizabeth ruth stewart gave birth to james maitland stewart at queens palace on 20 may 1908 .
+================
+row:  48
+================
+source:  Elizabeth Ruth Stewart gave birth to James Maitland Stewart at Indiana County on 20 May 1908 .
+masked:  elizabeth ruth stewart gave birth to james maitland stewart at indiana county on [MASK] [MASK] [MASK] .
+0     :  elizabeth ruth stewart gave birth to james maitland stewart at indiana county on 17 july 1865 .
+1     :  elizabeth ruth stewart gave birth to james maitland stewart at indiana county on 16 may 1861 .
+2     :  elizabeth ruth stewart gave birth to james maitland stewart at indiana county on 18 march 1862 .
+3     :  elizabeth ruth stewart gave birth to james maitland stewart at indiana county on 13 august 1891 .
+4     :  elizabeth ruth stewart gave birth to james maitland stewart at indiana county on 21 april 1866 .
+================
+row:  49
+================
+source:  Roxana Foote Beecher gave birth to Elizabeth Harriet Beecher at Litchfield on 14 June 1811 .
+masked:  [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] gave birth to elizabeth harriet beech ##er at lit ##chfield on 14 june 1811 .
+0     :  ge.e williamchfield beecher gave birth to elizabeth harriet beecher at litchfield on 14 june 1811 .
+1     :  libert harriete 'r gave birth to elizabeth harriet beecher at litchfield on 14 june 1811 .
+2     :  harrieterer edward. bushs gave birth to elizabeth harriet beecher at litchfield on 14 june 1811 .
+3     :  beesh richardford woode gave birth to elizabeth harriet beecher at litchfield on 14 june 1811 .
+4     :  drgers janefield whistleter gave birth to elizabeth harriet beecher at litchfield on 14 june 1811 .
+================
+row:  50
+================
+source:  Roxana Foote Beecher gave birth to Elizabeth Harriet Beecher at Litchfield on 14 June 1811 .
+masked:  ro ##xa ##na foot ##e beech ##er gave birth to [MASK] [MASK] [MASK] [MASK] at lit ##chfield on 14 june 1811 .
+0     :  roxana foote beecher gave birth to son william beecher at litchfield on 14 june 1811 .
+1     :  roxana foote beecher gave birth to john richard hayr at litchfield on 14 june 1811 .
+2     :  roxana foote beecher gave birth to thomas jane 'ers at litchfield on 14 june 1811 .
+3     :  roxana foote beecher gave birth to charles harriet blacks at litchfield on 14 june 1811 .
+4     :  roxana foote beecher gave birth to daughter francis picke at litchfield on 14 june 1811 .
+================
+row:  51
+================
+source:  Roxana Foote Beecher gave birth to Elizabeth Harriet Beecher at Litchfield on 14 June 1811 .
+masked:  ro ##xa ##na foot ##e beech ##er gave birth to elizabeth harriet beech ##er at [MASK] [MASK] on 14 june 1811 .
+0     :  roxana foote beecher gave birth to elizabeth harriet beecher at brookton on 14 june 1811 .
+1     :  roxana foote beecher gave birth to elizabeth harriet beecher at greenville on 14 june 1811 .
+2     :  roxana foote beecher gave birth to elizabeth harriet beecher at woodwood on 14 june 1811 .
+3     :  roxana foote beecher gave birth to elizabeth harriet beecher at beechhurst on 14 june 1811 .
+4     :  roxana foote beecher gave birth to elizabeth harriet beecher at newbury on 14 june 1811 .
+================
+row:  52
+================
+source:  Roxana Foote Beecher gave birth to Elizabeth Harriet Beecher at Litchfield on 14 June 1811 .
+masked:  ro ##xa ##na foot ##e beech ##er gave birth to elizabeth harriet beech ##er at lit ##chfield on [MASK] [MASK] [MASK] .
+0     :  roxana foote beecher gave birth to elizabeth harriet beecher at litchfield on 16 july 1865 .
+1     :  roxana foote beecher gave birth to elizabeth harriet beecher at litchfield on 17 april 1862 .
+2     :  roxana foote beecher gave birth to elizabeth harriet beecher at litchfield on 25 june 1861 .
+3     :  roxana foote beecher gave birth to elizabeth harriet beecher at litchfield on 26 may 1866 .
+4     :  roxana foote beecher gave birth to elizabeth harriet beecher at litchfield on 28 march 1857 .
+================
+row:  53
+================
+source:  Janet Grace Schultz gave birth to Bruce Peter Reimer at Winnipeg on 22 August 1965 .
+masked:  [MASK] [MASK] [MASK] gave birth to bruce peter rei ##mer at winnipeg on 22 august 1965 .
+0     :  she jean ann gave birth to bruce peter reimer at winnipeg on 22 august 1965 .
+1     :  margaret mary barbara gave birth to bruce peter reimer at winnipeg on 22 august 1965 .
+2     :  her wife she gave birth to bruce peter reimer at winnipeg on 22 august 1965 .
+3     :  the helen margaret gave birth to bruce peter reimer at winnipeg on 22 august 1965 .
+4     :  barbara daughter jane gave birth to bruce peter reimer at winnipeg on 22 august 1965 .
+================
+row:  54
+================
+source:  Janet Grace Schultz gave birth to Bruce Peter Reimer at Winnipeg on 22 August 1965 .
+masked:  janet grace schultz gave birth to [MASK] [MASK] [MASK] [MASK] at winnipeg on 22 august 1965 .
+0     :  janet grace schultz gave birth to son john coe at winnipeg on 22 august 1965 .
+1     :  janet grace schultz gave birth to john robert kos at winnipeg on 22 august 1965 .
+2     :  janet grace schultz gave birth to robert george key at winnipeg on 22 august 1965 .
+3     :  janet grace schultz gave birth to david james kiman at winnipeg on 22 august 1965 .
+4     :  janet grace schultz gave birth to daughter david pauler at winnipeg on 22 august 1965 .
+================
+row:  55
+================
+source:  Janet Grace Schultz gave birth to Bruce Peter Reimer at Winnipeg on 22 August 1965 .
+masked:  janet grace schultz gave birth to bruce peter rei ##mer at [MASK] on 22 august 1965 .
+0     :  janet grace schultz gave birth to bruce peter reimer at brisbane on 22 august 1965 .
+1     :  janet grace schultz gave birth to bruce peter reimer at melbourne on 22 august 1965 .
+2     :  janet grace schultz gave birth to bruce peter reimer at sydney on 22 august 1965 .
+3     :  janet grace schultz gave birth to bruce peter reimer at auckland on 22 august 1965 .
+4     :  janet grace schultz gave birth to bruce peter reimer at windsor on 22 august 1965 .
+================
+row:  56
+================
+source:  Janet Grace Schultz gave birth to Bruce Peter Reimer at Winnipeg on 22 August 1965 .
+masked:  janet grace schultz gave birth to bruce peter rei ##mer at winnipeg on [MASK] [MASK] [MASK] .
+0     :  janet grace schultz gave birth to bruce peter reimer at winnipeg on 16 october 1954 .
+1     :  janet grace schultz gave birth to bruce peter reimer at winnipeg on 17 july 1955 .
+2     :  janet grace schultz gave birth to bruce peter reimer at winnipeg on 26 september 1966 .
+3     :  janet grace schultz gave birth to bruce peter reimer at winnipeg on 28 december 1962 .
+4     :  janet grace schultz gave birth to bruce peter reimer at winnipeg on 18 may 1959 .
+================
+row:  57
+================
+source:  Judith Ann Hawkins gave birth to Maria Halle Berry at Cleveland on 14 August 1966 .
+masked:  [MASK] [MASK] [MASK] gave birth to maria halle berry at cleveland on 14 august 1966 .
+0     :  mary - berry gave birth to maria halle berry at cleveland on 14 august 1966 .
+1     :  jean . taylor gave birth to maria halle berry at cleveland on 14 august 1966 .
+2     :  in ann jones gave birth to maria halle berry at cleveland on 14 august 1966 .
+3     :  lady / davis gave birth to maria halle berry at cleveland on 14 august 1966 .
+4     :  singer – johnson gave birth to maria halle berry at cleveland on 14 august 1966 .
+================
+row:  58
+================
+source:  Judith Ann Hawkins gave birth to Maria Halle Berry at Cleveland on 14 August 1966 .
+masked:  judith ann hawkins gave birth to [MASK] [MASK] [MASK] at cleveland on 14 august 1966 .
+0     :  judith ann hawkins gave birth to son john hawkins at cleveland on 14 august 1966 .
+1     :  judith ann hawkins gave birth to john david johnson at cleveland on 14 august 1966 .
+2     :  judith ann hawkins gave birth to david james jones at cleveland on 14 august 1966 .
+3     :  judith ann hawkins gave birth to robert robert thompson at cleveland on 14 august 1966 .
+4     :  judith ann hawkins gave birth to james michael smith at cleveland on 14 august 1966 .
+================
+row:  59
+================
+source:  Judith Ann Hawkins gave birth to Maria Halle Berry at Cleveland on 14 August 1966 .
+masked:  judith ann hawkins gave birth to maria halle berry at [MASK] on 14 august 1966 .
+0     :  judith ann hawkins gave birth to maria halle berry at brisbane on 14 august 1966 .
+1     :  judith ann hawkins gave birth to maria halle berry at melbourne on 14 august 1966 .
+2     :  judith ann hawkins gave birth to maria halle berry at windsor on 14 august 1966 .
+3     :  judith ann hawkins gave birth to maria halle berry at sydney on 14 august 1966 .
+4     :  judith ann hawkins gave birth to maria halle berry at liverpool on 14 august 1966 .
+================
+row:  60
+================
+source:  Judith Ann Hawkins gave birth to Maria Halle Berry at Cleveland on 14 August 1966 .
+masked:  judith ann hawkins gave birth to maria halle berry at cleveland on [MASK] [MASK] [MASK] .
+0     :  judith ann hawkins gave birth to maria halle berry at cleveland on 16 july 1865 .
+1     :  judith ann hawkins gave birth to maria halle berry at cleveland on 17 april 1891 .
+2     :  judith ann hawkins gave birth to maria halle berry at cleveland on 21 october 1893 .
+3     :  judith ann hawkins gave birth to maria halle berry at cleveland on 18 september 1952 .
+4     :  judith ann hawkins gave birth to maria halle berry at cleveland on 20 march 1936 .
+================
+row:  61
+================
+source:  Cheryl Harris gave birth to Thebe Neruda Kgositsile at Chicago on 24 February 1994 .
+masked:  [MASK] [MASK] gave birth to the ##be ne ##rud ##a kg ##osi ##ts ##ile at chicago on 24 february 1994 .
+0     :  she later gave birth to thebe neruda kgositsile at chicago on 24 february 1994 .
+1     :  the subsequently gave birth to thebe neruda kgositsile at chicago on 24 february 1994 .
+2     :  her eventually gave birth to thebe neruda kgositsile at chicago on 24 february 1994 .
+3     :  margaret elizabeth gave birth to thebe neruda kgositsile at chicago on 24 february 1994 .
+4     :  this finally gave birth to thebe neruda kgositsile at chicago on 24 february 1994 .
+================
+row:  62
+================
+source:  Cheryl Harris gave birth to Thebe Neruda Kgositsile at Chicago on 24 February 1994 .
+masked:  cheryl harris gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] at chicago on 24 february 1994 .
+0     :  cheryl harris gave birth to son. jr.. , ,. , at chicago on 24 february 1994 .
+1     :  cheryl harris gave birth to alia andss. and ,s at chicago on 24 february 1994 .
+2     :  cheryl harris gave birth to eds 'ee and of andd at chicago on 24 february 1994 .
+3     :  cheryl harris gave birth to toddesa ,s to7e at chicago on 24 february 1994 .
+4     :  cheryl harris gave birth to stepsman snn of withll at chicago on 24 february 1994 .
+================
+row:  63
+================
+source:  Cheryl Harris gave birth to Thebe Neruda Kgositsile at Chicago on 24 February 1994 .
+masked:  cheryl harris gave birth to the ##be ne ##rud ##a kg ##osi ##ts ##ile at [MASK] on 24 february 1994 .
+0     :  cheryl harris gave birth to thebe neruda kgositsile at johannesburg on 24 february 1994 .
+1     :  cheryl harris gave birth to thebe neruda kgositsile at durban on 24 february 1994 .
+2     :  cheryl harris gave birth to thebe neruda kgositsile at nairobi on 24 february 1994 .
+3     :  cheryl harris gave birth to thebe neruda kgositsile at wellington on 24 february 1994 .
+4     :  cheryl harris gave birth to thebe neruda kgositsile at birth on 24 february 1994 .
+================
+row:  64
+================
+source:  Cheryl Harris gave birth to Thebe Neruda Kgositsile at Chicago on 24 February 1994 .
+masked:  cheryl harris gave birth to the ##be ne ##rud ##a kg ##osi ##ts ##ile at chicago on [MASK] [MASK] [MASK] .
+0     :  cheryl harris gave birth to thebe neruda kgositsile at chicago on 17 august 2010 .
+1     :  cheryl harris gave birth to thebe neruda kgositsile at chicago on 29 june 2009 .
+2     :  cheryl harris gave birth to thebe neruda kgositsile at chicago on 1 december 2008 .
+3     :  cheryl harris gave birth to thebe neruda kgositsile at chicago on 21 september 2012 .
+4     :  cheryl harris gave birth to thebe neruda kgositsile at chicago on 16 november 2011 .
+================
+row:  65
+================
+source:  Patricia Brent, Spinster gave birth to Macaulay Carson Culkin at Manhattan on 26 August 1980 .
+masked:  [MASK] [MASK] [MASK] [MASK] [MASK] gave birth to macau ##lay carson cu ##lk ##in at manhattan on 26 august 1980 .
+0     :  she cu , macaulay gave birth to macaulay carson culkin at manhattan on 26 august 1980 .
+1     :  the , the cartley gave birth to macaulay carson culkin at manhattan on 26 august 1980 .
+2     :  with ofin faran gave birth to macaulay carson culkin at manhattan on 26 august 1980 .
+3     :  during to and colain gave birth to macaulay carson culkin at manhattan on 26 august 1980 .
+4     :  when she her gilly gave birth to macaulay carson culkin at manhattan on 26 august 1980 .
+================
+row:  66
+================
+source:  Patricia Brent, Spinster gave birth to Macaulay Carson Culkin at Manhattan on 26 August 1980 .
+masked:  patricia brent ##, spins ##ter gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] at manhattan on 26 august 1980 .
+0     :  patricia brent, spinster gave birth to mrs. brent ,, , at manhattan on 26 august 1980 .
+1     :  patricia brent, spinster gave birth to mra john ’., at manhattan on 26 august 1980 .
+2     :  patricia brent, spinster gave birth to revine david brent ,s at manhattan on 26 august 1980 .
+3     :  patricia brent, spinster gave birth to sont robert and ’. at manhattan on 26 august 1980 .
+4     :  patricia brent, spinster gave birth to es elizabeth tos8 at manhattan on 26 august 1980 .
+================
+row:  67
+================
+source:  Patricia Brent, Spinster gave birth to Macaulay Carson Culkin at Manhattan on 26 August 1980 .
+masked:  patricia brent ##, spins ##ter gave birth to macau ##lay carson cu ##lk ##in at [MASK] on 26 august 1980 .
+0     :  patricia brent, spinster gave birth to macaulay carson culkin at melbourne on 26 august 1980 .
+1     :  patricia brent, spinster gave birth to macaulay carson culkin at brisbane on 26 august 1980 .
+2     :  patricia brent, spinster gave birth to macaulay carson culkin at edinburgh on 26 august 1980 .
+3     :  patricia brent, spinster gave birth to macaulay carson culkin at auckland on 26 august 1980 .
+4     :  patricia brent, spinster gave birth to macaulay carson culkin at windsor on 26 august 1980 .
+================
+row:  68
+================
+source:  Patricia Brent, Spinster gave birth to Macaulay Carson Culkin at Manhattan on 26 August 1980 .
+masked:  patricia brent ##, spins ##ter gave birth to macau ##lay carson cu ##lk ##in at manhattan on [MASK] [MASK] [MASK] .
+0     :  patricia brent, spinster gave birth to macaulay carson culkin at manhattan on 17 december 2010 .
+1     :  patricia brent, spinster gave birth to macaulay carson culkin at manhattan on 10 november 2009 .
+2     :  patricia brent, spinster gave birth to macaulay carson culkin at manhattan on 3 june 2007 .
+3     :  patricia brent, spinster gave birth to macaulay carson culkin at manhattan on 11 september 2008 .
+4     :  patricia brent, spinster gave birth to macaulay carson culkin at manhattan on 21 august 2011 .
+================
+row:  69
+================
+source:  Jean Speegle Howard gave birth to Ronald William Howard at Duncan on 01 March 1954 .
+masked:  [MASK] [MASK] [MASK] [MASK] [MASK] gave birth to ronald william howard at duncan on 01 march 1954 .
+0     :  after , , , wife gave birth to ronald william howard at duncan on 01 march 1954 .
+1     :  however tos the howard gave birth to ronald william howard at duncan on 01 march 1954 .
+2     :  at of and and mother gave birth to ronald william howard at duncan on 01 march 1954 .
+3     :  in with. she daughter gave birth to ronald william howard at duncan on 01 march 1954 .
+4     :  later and the her helen gave birth to ronald william howard at duncan on 01 march 1954 .
+================
+row:  70
+================
+source:  Jean Speegle Howard gave birth to Ronald William Howard at Duncan on 01 March 1954 .
+masked:  jean sp ##ee ##gle howard gave birth to [MASK] [MASK] [MASK] at duncan on 01 march 1954 .
+0     :  jean speegle howard gave birth to william margaret howard at duncan on 01 march 1954 .
+1     :  jean speegle howard gave birth to margaret william elizabeth at duncan on 01 march 1954 .
+2     :  jean speegle howard gave birth to joan richard george at duncan on 01 march 1954 .
+3     :  jean speegle howard gave birth to harold jane john at duncan on 01 march 1954 .
+4     :  jean speegle howard gave birth to hugh alan mary at duncan on 01 march 1954 .
+================
+row:  71
+================
+source:  Jean Speegle Howard gave birth to Ronald William Howard at Duncan on 01 March 1954 .
+masked:  jean sp ##ee ##gle howard gave birth to ronald william howard at [MASK] on 01 march 1954 .
+0     :  jean speegle howard gave birth to ronald william howard at windsor on 01 march 1954 .
+1     :  jean speegle howard gave birth to ronald william howard at edinburgh on 01 march 1954 .
+2     :  jean speegle howard gave birth to ronald william howard at westminster on 01 march 1954 .
+3     :  jean speegle howard gave birth to ronald william howard at melbourne on 01 march 1954 .
+4     :  jean speegle howard gave birth to ronald william howard at london on 01 march 1954 .
+================
+row:  72
+================
+source:  Jean Speegle Howard gave birth to Ronald William Howard at Duncan on 01 March 1954 .
+masked:  jean sp ##ee ##gle howard gave birth to ronald william howard at duncan on [MASK] [MASK] [MASK] .
+0     :  jean speegle howard gave birth to ronald william howard at duncan on ( february 1947 .
+1     :  jean speegle howard gave birth to ronald william howard at duncan on ' december 1955 .
+2     :  jean speegle howard gave birth to ronald william howard at duncan on - october 1944 .
+3     :  jean speegle howard gave birth to ronald william howard at duncan on the may 1936 .
+4     :  jean speegle howard gave birth to ronald william howard at duncan on [UNK] june 1952 .
+================
+row:  73
+================
+source:  Minnie Marx gave birth to Julius Henry Marx at Manhattan on 02 October 1890 .
+masked:  [MASK] [MASK] gave birth to julius henry marx at manhattan on 02 october 1890 .
+0     :  she marx gave birth to julius henry marx at manhattan on 02 october 1890 .
+1     :  julia later gave birth to julius henry marx at manhattan on 02 october 1890 .
+2     :  josephine anna gave birth to julius henry marx at manhattan on 02 october 1890 .
+3     :  her eventually gave birth to julius henry marx at manhattan on 02 october 1890 .
+4     :  emma helen gave birth to julius henry marx at manhattan on 02 october 1890 .
+================
+row:  74
+================
+source:  Minnie Marx gave birth to Julius Henry Marx at Manhattan on 02 October 1890 .
+masked:  minnie marx gave birth to [MASK] [MASK] [MASK] at manhattan on 02 october 1890 .
+0     :  minnie marx gave birth to william marx marx at manhattan on 02 october 1890 .
+1     :  minnie marx gave birth to the young roosevelt at manhattan on 02 october 1890 .
+2     :  minnie marx gave birth to his henry mayer at manhattan on 02 october 1890 .
+3     :  minnie marx gave birth to richard george brown at manhattan on 02 october 1890 .
+4     :  minnie marx gave birth to her lee jones at manhattan on 02 october 1890 .
+================
+row:  75
+================
+source:  Minnie Marx gave birth to Julius Henry Marx at Manhattan on 02 October 1890 .
+masked:  minnie marx gave birth to julius henry marx at [MASK] on 02 october 1890 .
+0     :  minnie marx gave birth to julius henry marx at london on 02 october 1890 .
+1     :  minnie marx gave birth to julius henry marx at liverpool on 02 october 1890 .
+2     :  minnie marx gave birth to julius henry marx at brighton on 02 october 1890 .
+3     :  minnie marx gave birth to julius henry marx at vienna on 02 october 1890 .
+4     :  minnie marx gave birth to julius henry marx at melbourne on 02 october 1890 .
+================
+row:  76
+================
+source:  Minnie Marx gave birth to Julius Henry Marx at Manhattan on 02 October 1890 .
+masked:  minnie marx gave birth to julius henry marx at manhattan on [MASK] [MASK] [MASK] .
+0     :  minnie marx gave birth to julius henry marx at manhattan on $ may 1901 .
+1     :  minnie marx gave birth to julius henry marx at manhattan on the july 1899 .
+2     :  minnie marx gave birth to julius henry marx at manhattan on [UNK] february 1898 .
+3     :  minnie marx gave birth to julius henry marx at manhattan on jul september 1900 .
+4     :  minnie marx gave birth to julius henry marx at manhattan on ann october 1902 .
+================
+row:  77
+================
+source:  Roberta McCain gave birth to John Sidney McCain III at Coco Solo on 29 August 1936 .
+masked:  [MASK] [MASK] gave birth to john sidney mccain iii at coco solo on 29 august 1936 .
+0     :  eleanor mccain gave birth to john sidney mccain iii at coco solo on 29 august 1936 .
+1     :  frances eleanor gave birth to john sidney mccain iii at coco solo on 29 august 1936 .
+2     :  betty kerry gave birth to john sidney mccain iii at coco solo on 29 august 1936 .
+3     :  kathleen claire gave birth to john sidney mccain iii at coco solo on 29 august 1936 .
+4     :  marie randolph gave birth to john sidney mccain iii at coco solo on 29 august 1936 .
+================
+row:  78
+================
+source:  Roberta McCain gave birth to John Sidney McCain III at Coco Solo on 29 August 1936 .
+masked:  roberta mccain gave birth to [MASK] [MASK] [MASK] [MASK] at coco solo on 29 august 1936 .
+0     :  roberta mccain gave birth to john john ' kennedy at coco solo on 29 august 1936 .
+1     :  roberta mccain gave birth to baby mary mccain mitchell at coco solo on 29 august 1936 .
+2     :  roberta mccain gave birth to james son . lee at coco solo on 29 august 1936 .
+3     :  roberta mccain gave birth to son lee - jones at coco solo on 29 august 1936 .
+4     :  roberta mccain gave birth to george ray jane williams at coco solo on 29 august 1936 .
+================
+row:  79
+================
+source:  Roberta McCain gave birth to John Sidney McCain III at Coco Solo on 29 August 1936 .
+masked:  roberta mccain gave birth to john sidney mccain iii at [MASK] [MASK] on 29 august 1936 .
+0     :  roberta mccain gave birth to john sidney mccain iii at age hospital on 29 august 1936 .
+1     :  roberta mccain gave birth to john sidney mccain iii at arlington bay on 29 august 1936 .
+2     :  roberta mccain gave birth to john sidney mccain iii at fort park on 29 august 1936 .
+3     :  roberta mccain gave birth to john sidney mccain iii at windsor house on 29 august 1936 .
+4     :  roberta mccain gave birth to john sidney mccain iii at mount hill on 29 august 1936 .
+================
+row:  80
+================
+source:  Roberta McCain gave birth to John Sidney McCain III at Coco Solo on 29 August 1936 .
+masked:  roberta mccain gave birth to john sidney mccain iii at coco solo on [MASK] [MASK] [MASK] .
+0     :  roberta mccain gave birth to john sidney mccain iii at coco solo on 16 july 2015 .
+1     :  roberta mccain gave birth to john sidney mccain iii at coco solo on 17 august 2014 .
+2     :  roberta mccain gave birth to john sidney mccain iii at coco solo on 18 may 1959 .
+3     :  roberta mccain gave birth to john sidney mccain iii at coco solo on 15 june 1969 .
+4     :  roberta mccain gave birth to john sidney mccain iii at coco solo on 21 september 1966 .
+================
+row:  81
+================
+source:  Janet Sheen gave birth to Carlos Irwin Estévez at New York City on 03 September 1965 .
+masked:  [MASK] [MASK] gave birth to carlos irwin [UNK] at new york city on 03 september 1965 .
+0     :  [UNK] later gave birth to carlos irwin [UNK] at new york city on 03 september 1965 .
+1     :  she subsequently gave birth to carlos irwin [UNK] at new york city on 03 september 1965 .
+2     :  isabel eventually gave birth to carlos irwin [UNK] at new york city on 03 september 1965 .
+3     :  dolores wife gave birth to carlos irwin [UNK] at new york city on 03 september 1965 .
+4     :  her finally gave birth to carlos irwin [UNK] at new york city on 03 september 1965 .
+================
+row:  82
+================
+source:  Janet Sheen gave birth to Carlos Irwin Estévez at New York City on 03 September 1965 .
+masked:  janet sheen gave birth to [MASK] [MASK] [MASK] at new york city on 03 september 1965 .
+0     :  janet sheen gave birth to john alan ) at new york city on 03 september 1965 .
+1     :  janet sheen gave birth to david richard cameron at new york city on 03 september 1965 .
+2     :  janet sheen gave birth to james kenneth boyd at new york city on 03 september 1965 .
+3     :  janet sheen gave birth to son william gordon at new york city on 03 september 1965 .
+4     :  janet sheen gave birth to michael steven clarke at new york city on 03 september 1965 .
+================
+row:  83
+================
+source:  Janet Sheen gave birth to Carlos Irwin Estévez at New York City on 03 September 1965 .
+masked:  janet sheen gave birth to carlos irwin [UNK] at [MASK] [MASK] [MASK] on 03 september 1965 .
+0     :  janet sheen gave birth to carlos irwin [UNK] at new york city on 03 september 1965 .
+1     :  janet sheen gave birth to carlos irwin [UNK] at mexico city hospital on 03 september 1965 .
+2     :  janet sheen gave birth to carlos irwin [UNK] at saint war palace on 03 september 1965 .
+3     :  janet sheen gave birth to carlos irwin [UNK] at british new university on 03 september 1965 .
+4     :  janet sheen gave birth to carlos irwin [UNK] at santa mexico island on 03 september 1965 .
+================
+row:  84
+================
+source:  Janet Sheen gave birth to Carlos Irwin Estévez at New York City on 03 September 1965 .
+masked:  janet sheen gave birth to carlos irwin [UNK] at new york city on [MASK] [MASK] [MASK] .
+0     :  janet sheen gave birth to carlos irwin [UNK] at new york city on [UNK] december 2010 .
+1     :  janet sheen gave birth to carlos irwin [UNK] at new york city on 2007 november 2008 .
+2     :  janet sheen gave birth to carlos irwin [UNK] at new york city on 2011 september 2007 .
+3     :  janet sheen gave birth to carlos irwin [UNK] at new york city on 2008 october 2009 .
+4     :  janet sheen gave birth to carlos irwin [UNK] at new york city on 2009 july 2011 .
+================
+row:  85
+================
+source:  Myra Keaton gave birth to Joseph Francis Keaton VI at Piqua on 04 October 1895 .
+masked:  [MASK] [MASK] [MASK] gave birth to joseph francis ke ##aton vi at pi ##qua on 04 october 1895 .
+0     :  the keaton gave birth to joseph francis keaton vi at piqua on 04 october 1895 .
+1     :  marie kis gave birth to joseph francis keaton vi at piqua on 04 october 1895 .
+2     :  margaret shea gave birth to joseph francis keaton vi at piqua on 04 october 1895 .
+3     :  katherine jean gave birth to joseph francis keaton vi at piqua on 04 october 1895 .
+4     :  josephine knanza gave birth to joseph francis keaton vi at piqua on 04 october 1895 .
+================
+row:  86
+================
+source:  Myra Keaton gave birth to Joseph Francis Keaton VI at Piqua on 04 October 1895 .
+masked:  myra ke ##aton gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] at pi ##qua on 04 october 1895 .
+0     :  myra keaton gave birth to john jane keaton smith at piqua on 04 october 1895 .
+1     :  myra keaton gave birth to frederick william '. steele at piqua on 04 october 1895 .
+2     :  myra keaton gave birth to edward francis ks ford at piqua on 04 october 1895 .
+3     :  myra keaton gave birth to james theodore jrton carter at piqua on 04 october 1895 .
+4     :  myra keaton gave birth to louis juan kia day at piqua on 04 october 1895 .
+================
+row:  87
+================
+source:  Myra Keaton gave birth to Joseph Francis Keaton VI at Piqua on 04 October 1895 .
+masked:  myra ke ##aton gave birth to joseph francis ke ##aton vi at [MASK] [MASK] on 04 october 1895 .
+0     :  myra keaton gave birth to joseph francis keaton vi at belton on 04 october 1895 .
+1     :  myra keaton gave birth to joseph francis keaton vi at oakbrook on 04 october 1895 .
+2     :  myra keaton gave birth to joseph francis keaton vi at herbourne on 04 october 1895 .
+3     :  myra keaton gave birth to joseph francis keaton vi at theford on 04 october 1895 .
+4     :  myra keaton gave birth to joseph francis keaton vi at whitefield on 04 october 1895 .
+================
+row:  88
+================
+source:  Myra Keaton gave birth to Joseph Francis Keaton VI at Piqua on 04 October 1895 .
+masked:  myra ke ##aton gave birth to joseph francis ke ##aton vi at pi ##qua on [MASK] [MASK] [MASK] .
+0     :  myra keaton gave birth to joseph francis keaton vi at piqua on ( july 1936 .
+1     :  myra keaton gave birth to joseph francis keaton vi at piqua on - february 1935 .
+2     :  myra keaton gave birth to joseph francis keaton vi at piqua on $ october 1944 .
+3     :  myra keaton gave birth to joseph francis keaton vi at piqua on circa december 1924 .
+4     :  myra keaton gave birth to joseph francis keaton vi at piqua on ' june 1934 .
+================
+row:  89
+================
+source:  Natalie Bacal gave birth to Betty Joan Perske at The Bronx on 16 September 1924 .
+masked:  [MASK] [MASK] [MASK] gave birth to betty joan per ##ske at the bronx on 16 september 1924 .
+0     :  betty perske gave birth to betty joan perske at the bronx on 16 september 1924 .
+1     :  joan , she gave birth to betty joan perske at the bronx on 16 september 1924 .
+2     :  william piik gave birth to betty joan perske at the bronx on 16 september 1924 .
+3     :  harold parek gave birth to betty joan perske at the bronx on 16 september 1924 .
+4     :  edith prisky gave birth to betty joan perske at the bronx on 16 september 1924 .
+================
+row:  90
+================
+source:  Natalie Bacal gave birth to Betty Joan Perske at The Bronx on 16 September 1924 .
+masked:  natalie ba ##cal gave birth to [MASK] [MASK] [MASK] [MASK] at the bronx on 16 september 1924 .
+0     :  natalie bacal gave birth to william [UNK] bal at the bronx on 16 september 1924 .
+1     :  natalie bacal gave birth to natalie jane beel at the bronx on 16 september 1924 .
+2     :  natalie bacal gave birth to harold von bie at the bronx on 16 september 1924 .
+3     :  natalie bacal gave birth to richard ann buy at the bronx on 16 september 1924 .
+4     :  natalie bacal gave birth to the jo veal at the bronx on 16 september 1924 .
+================
+row:  91
+================
+source:  Natalie Bacal gave birth to Betty Joan Perske at The Bronx on 16 September 1924 .
+masked:  natalie ba ##cal gave birth to betty joan per ##ske at [MASK] [MASK] on 16 september 1924 .
+0     :  natalie bacal gave birth to betty joan perske at st park on 16 september 1924 .
+1     :  natalie bacal gave birth to betty joan perske at kensington hospital on 16 september 1924 .
+2     :  natalie bacal gave birth to betty joan perske at hammersmith palace on 16 september 1924 .
+3     :  natalie bacal gave birth to betty joan perske at paddington hill on 16 september 1924 .
+4     :  natalie bacal gave birth to betty joan perske at the heath on 16 september 1924 .
+================
+row:  92
+================
+source:  Natalie Bacal gave birth to Betty Joan Perske at The Bronx on 16 September 1924 .
+masked:  natalie ba ##cal gave birth to betty joan per ##ske at the bronx on [MASK] [MASK] [MASK] .
+0     :  natalie bacal gave birth to betty joan perske at the bronx on 17 july 1942 .
+1     :  natalie bacal gave birth to betty joan perske at the bronx on 18 october 1952 .
+2     :  natalie bacal gave birth to betty joan perske at the bronx on 21 may 1955 .
+3     :  natalie bacal gave birth to betty joan perske at the bronx on 16 september 1951 .
+4     :  natalie bacal gave birth to betty joan perske at the bronx on 25 june 1944 .
+================
+row:  93
+================
+source:  Bertha Sanglel gave birth to Issur Danielovitch at Amsterdam on 09 December 1916 .
+masked:  [MASK] [MASK] [MASK] [MASK] gave birth to iss ##ur daniel ##ov ##itch at amsterdam on 09 december 1916 .
+0     :  the ,ev she gave birth to issur danielovitch at amsterdam on 09 december 1916 .
+1     :  she ofovva gave birth to issur danielovitch at amsterdam on 09 december 1916 .
+2     :  alexandra ra ,a gave birth to issur danielovitch at amsterdam on 09 december 1916 .
+3     :  marie sheova , gave birth to issur danielovitch at amsterdam on 09 december 1916 .
+4     :  olga vivana gave birth to issur danielovitch at amsterdam on 09 december 1916 .
+================
+row:  94
+================
+source:  Bertha Sanglel gave birth to Issur Danielovitch at Amsterdam on 09 December 1916 .
+masked:  bertha sang ##le ##l gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] at amsterdam on 09 december 1916 .
+0     :  bertha sanglel gave birth to e''ll at amsterdam on 09 december 1916 .
+1     :  bertha sanglel gave birth to he.ellee at amsterdam on 09 december 1916 .
+2     :  bertha sanglel gave birth to llllit at amsterdam on 09 december 1916 .
+3     :  bertha sanglel gave birth to jezzreer at amsterdam on 09 december 1916 .
+4     :  bertha sanglel gave birth to beeldeleln at amsterdam on 09 december 1916 .
+================
+row:  95
+================
+source:  Bertha Sanglel gave birth to Issur Danielovitch at Amsterdam on 09 December 1916 .
+masked:  bertha sang ##le ##l gave birth to iss ##ur daniel ##ov ##itch at [MASK] on 09 december 1916 .
+0     :  bertha sanglel gave birth to issur danielovitch at jerusalem on 09 december 1916 .
+1     :  bertha sanglel gave birth to issur danielovitch at moscow on 09 december 1916 .
+2     :  bertha sanglel gave birth to issur danielovitch at vienna on 09 december 1916 .
+3     :  bertha sanglel gave birth to issur danielovitch at haifa on 09 december 1916 .
+4     :  bertha sanglel gave birth to issur danielovitch at kiev on 09 december 1916 .
+================
+row:  96
+================
+source:  Bertha Sanglel gave birth to Issur Danielovitch at Amsterdam on 09 December 1916 .
+masked:  bertha sang ##le ##l gave birth to iss ##ur daniel ##ov ##itch at amsterdam on [MASK] [MASK] [MASK] .
+0     :  bertha sanglel gave birth to issur danielovitch at amsterdam on the february 1936 .
+1     :  bertha sanglel gave birth to issur danielovitch at amsterdam on [UNK] may 1935 .
+2     :  bertha sanglel gave birth to issur danielovitch at amsterdam on 01 march 1930 .
+3     :  bertha sanglel gave birth to issur danielovitch at amsterdam on jul july 1932 .
+4     :  bertha sanglel gave birth to issur danielovitch at amsterdam on 08 august 1934 .
+================
+row:  97
+================
+source:  Charlotte Hennessy gave birth to Gladys Louise Smith at Toronto on 08 April 1892 .
+masked:  [MASK] [MASK] [MASK] gave birth to gladys louise smith at toronto on 08 april 1892 .
+0     :  lady cos gave birth to gladys louise smith at toronto on 08 april 1892 .
+1     :  john homan gave birth to gladys louise smith at toronto on 08 april 1892 .
+2     :  mary hener gave birth to gladys louise smith at toronto on 08 april 1892 .
+3     :  george gillley gave birth to gladys louise smith at toronto on 08 april 1892 .
+4     :  arthur boe gave birth to gladys louise smith at toronto on 08 april 1892 .
+================
+row:  98
+================
+source:  Charlotte Hennessy gave birth to Gladys Louise Smith at Toronto on 08 April 1892 .
+masked:  charlotte hen ##nessy gave birth to [MASK] [MASK] [MASK] at toronto on 08 april 1892 .
+0     :  charlotte hennessy gave birth to william - dawson at toronto on 08 april 1892 .
+1     :  charlotte hennessy gave birth to francis william thomas at toronto on 08 april 1892 .
+2     :  charlotte hennessy gave birth to richard ' williams at toronto on 08 april 1892 .
+3     :  charlotte hennessy gave birth to hugh . young at toronto on 08 april 1892 .
+4     :  charlotte hennessy gave birth to dr hugh alexander at toronto on 08 april 1892 .
+================
+row:  99
+================
+source:  Charlotte Hennessy gave birth to Gladys Louise Smith at Toronto on 08 April 1892 .
+masked:  charlotte hen ##nessy gave birth to gladys louise smith at [MASK] on 08 april 1892 .
+0     :  charlotte hennessy gave birth to gladys louise smith at liverpool on 08 april 1892 .
+1     :  charlotte hennessy gave birth to gladys louise smith at brisbane on 08 april 1892 .
+2     :  charlotte hennessy gave birth to gladys louise smith at melbourne on 08 april 1892 .
+3     :  charlotte hennessy gave birth to gladys louise smith at windsor on 08 april 1892 .
+4     :  charlotte hennessy gave birth to gladys louise smith at brighton on 08 april 1892 .
+================
+row:  100
+================
+source:  Charlotte Hennessy gave birth to Gladys Louise Smith at Toronto on 08 April 1892 .
+masked:  charlotte hen ##nessy gave birth to gladys louise smith at toronto on [MASK] [MASK] [MASK] .
+0     :  charlotte hennessy gave birth to gladys louise smith at toronto on ( december 1915 .
+1     :  charlotte hennessy gave birth to gladys louise smith at toronto on - february 1912 .
+2     :  charlotte hennessy gave birth to gladys louise smith at toronto on – july 1901 .
+3     :  charlotte hennessy gave birth to gladys louise smith at toronto on ' october 1918 .
+4     :  charlotte hennessy gave birth to gladys louise smith at toronto on [UNK] june 1919 .
+================

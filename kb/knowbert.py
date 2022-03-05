@@ -19,7 +19,7 @@ from pytorch_pretrained_bert.modeling import BertForPreTraining, BertLayer, Bert
 import torch
 import numpy as np
 
-from kb.metrics import MeanReciprocalRank
+from kb.metrics import MeanReciprocalRank, Hits
 from kb.entity_linking import BaseEntityDisambiguator, EntityLinkingBase
 from kb.span_attention_layer import SpanAttentionLayer
 from kb.common import get_dtype_for_module, extend_attention_mask_for_bert, init_bert_weights
@@ -83,6 +83,7 @@ class BertPretrainedMetricsLoss(Model):
             "lm_loss": Average(),
             "lm_loss_wgt": WeightedAverage(),
             "mrr": MeanReciprocalRank(),
+            "hits": Hits(topn=1),
         }
         self._accuracy = CategoricalAccuracy()
 
@@ -147,6 +148,16 @@ class BertPretrainedMetricsLoss(Model):
                 contextual_embeddings, pooled_output
         )
         self._metrics['mrr'](prediction_scores, lm_labels_ids, mask_indicator)
+    
+    def _compute_hits(self,
+                     contextual_embeddings,
+                     pooled_output,
+                     lm_labels_ids,
+                     mask_indicator):
+        prediction_scores, seq_relationship_score = self.pretraining_heads(
+                contextual_embeddings, pooled_output
+        )
+        self._metrics['hits'](prediction_scores, lm_labels_ids, mask_indicator)
 
 
 @Model.register("bert_pretrained_masked_lm")
@@ -939,6 +950,11 @@ class KnowBert(BertPretrainedMetricsLoss):
 
         if 'mask_indicator' in kwargs:
             self._compute_mrr(contextual_embeddings,
+                              pooled_output,
+                              lm_label_ids['lm_labels'],
+                              kwargs['mask_indicator'])
+
+            self._compute_hits(contextual_embeddings,
                               pooled_output,
                               lm_label_ids['lm_labels'],
                               kwargs['mask_indicator'])
