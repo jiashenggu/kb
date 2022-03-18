@@ -105,7 +105,7 @@ cd ..
 MODEL_ARCHIVE=knowbert_wiki_wordnet_model
 python bin/evaluate_mrr.py \
     --model_archive $MODEL_ARCHIVE \
-    --datadir ../data/kg_probe \
+    --datadir /data02/wikidata-frame-completion/data/kg_probe \
     --cuda_device 0
 ```
 
