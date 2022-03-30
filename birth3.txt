@@ -1,0 +1,70 @@
+row:  1
+================
+source:  Selina Keagon gave birth to Cornelius Tuayan Keagon at Monrovia on 06 July 1996 .
+masked_tokens:  [MASK] [MASK] [MASK] [MASK] [MASK] gave birth to cornelius tu ##ayan ke ##ago ##n at mon ##rov ##ia on 06 july 1996 .
+0     :  tua ke ,n gave birth to cornelius tuayan keagon at monrovia on 06 july 1996 .
+masked_ranks:  53,141,0,1,0
+================
+row:  2
+================
+source:  Selina Keagon gave birth to Cornelius Tuayan Keagon at Monrovia on 06 July 1996 .
+masked_tokens:  se ##lina ke ##ago ##n gave birth to [MASK] [MASK] [MASK] [MASK] [MASK] [MASK] at mon ##rov ##ia on 06 july 1996 .
+0     :  selina keagon gave birth to danny ken keagon at monrovia on 06 july 1996 .
+masked_ranks:  768,25,3835,0,0,0
+================
+row:  3
+================
+source:  Selina Keagon gave birth to Cornelius Tuayan Keagon at Monrovia on 06 July 1996 .
+masked_tokens:  se ##lina ke ##ago ##n gave birth to cornelius tu ##ayan ke ##ago ##n at [MASK] [MASK] [MASK] on 06 july 1996 .
+0     :  selina keagon gave birth to cornelius tuayan keagon at kebuong on 06 july 1996 .
+masked_ranks:  95,384,18
+================
+row:  4
+================
+source:  Selina Keagon gave birth to Cornelius Tuayan Keagon at Monrovia on 06 July 1996 .
+masked_tokens:  se ##lina ke ##ago ##n gave birth to cornelius tu ##ayan ke ##ago ##n at mon ##rov ##ia on [MASK] [MASK] [MASK] .
+0     :  selina keagon gave birth to cornelius tuayan keagon at monrovia on the march 2010 .
+masked_ranks:  51,9,10
+================
+row:  5
+================
+source:  Ann Astaire gave birth to Frederick Austerlit at Omaha on 10 May 1899 .
+masked_tokens:  [MASK] [MASK] [MASK] [MASK] gave birth to frederick aus ##ter ##lit at omaha on 10 may 1899 .
+0     :  the crtere gave birth to frederick austerlit at omaha on 10 may 1899 .
+masked_ranks:  30,64,681,55
+================
+row:  6
+================
+source:  Ann Astaire gave birth to Frederick Austerlit at Omaha on 10 May 1899 .
+masked_tokens:  ann as ##tai ##re gave birth to [MASK] [MASK] [MASK] [MASK] at omaha on 10 may 1899 .
+0     :  ann astaire gave birth to john andree at omaha on 10 may 1899 .
+masked_ranks:  8,316,11,2264
+================
+row:  7
+================
+source:  Ann Astaire gave birth to Frederick Austerlit at Omaha on 10 May 1899 .
+masked_tokens:  ann as ##tai ##re gave birth to frederick aus ##ter ##lit at [MASK] on 10 may 1899 .
+0     :  ann astaire gave birth to frederick austerlit at brighton on 10 may 1899 .
+masked_ranks:  553
+================
+row:  8
+================
+source:  Ann Astaire gave birth to Frederick Austerlit at Omaha on 10 May 1899 .
+masked_tokens:  ann as ##tai ##re gave birth to frederick aus ##ter ##lit at omaha on [MASK] [MASK] [MASK] .
+0     :  ann astaire gave birth to frederick austerlit at omaha on 16 july 1865 .
+masked_ranks:  14,4,4
+================
+row:  9
+================
+source:  Judy Murray gave birth to Andrew Barron Murray at Glasgow on 15 May 1987 .
+masked_tokens:  [MASK] [MASK] gave birth to andrew barron murray at glasgow on 15 may 1987 .
+0     :  the mother gave birth to andrew barron murray at glasgow on 15 may 1987 .
+masked_ranks:  153,3
+================
+row:  10
+================
+source:  Judy Murray gave birth to Andrew Barron Murray at Glasgow on 15 May 1987 .
+masked_tokens:  judy murray gave birth to [MASK] [MASK] [MASK] at glasgow on 15 may 1987 .
+0     :  judy murray gave birth to john ann murray at glasgow on 15 may 1987 .
+masked_ranks:  11,1817,0
+================
