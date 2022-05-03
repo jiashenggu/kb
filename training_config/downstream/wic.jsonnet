@@ -49,7 +49,7 @@
     "model": {
         "model": {
             "type": "from_archive",
-            "archive_file": "knowbert_wiki_wordnet_model.tar.gz",
+            "archive_file": "knowbert_wiki_wordnet_model",
         },
         "type": "simple-classifier",
         "bert_dim": 768,
@@ -59,20 +59,20 @@
         "num_labels": 2,
         "task": "classification"
     },
-    "train_data_path": "/home/scruple/data/wic/train/train",
-    "validation_data_path": "/home/scruple/data/wic/dev/dev",
+    "train_data_path": "/nas/home/gujiashe/critic/train1",
+    "validation_data_path": "/nas/home/gujiashe/critic/dev1",
     "trainer": {
         "cuda_device": 0,
         "gradient_accumulation_batch_size": 32,
         "learning_rate_scheduler": {
             "type": "slanted_triangular",
-            "num_epochs": 5,
-            "num_steps_per_epoch": 169.75
+            "num_epochs": 50,
+            "num_steps_per_epoch": 156
         },
         "moving_average": {
             "decay": 0.95
         },
-        "num_epochs": 5,
+        "num_epochs": 50,
         "num_serialized_models_to_keep": 1,
         "optimizer": {
             "type": "bert_adam",

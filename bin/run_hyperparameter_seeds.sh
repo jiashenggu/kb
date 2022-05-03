@@ -15,14 +15,14 @@ numpy_seeds=(1053248695 2739105195 1071118652 755056791 3842727116)
 pytorch_seeds=(81406405 807621944 3166916287 3467634827 1189731539)
 
 i=0
-while [ $i -lt 5 ]; do
+while [ $i -lt 1 ]; do
     rs=${random_seeds[$i]}
     ns=${numpy_seeds[$i]}
     ps=${pytorch_seeds[$i]}
 
     for LR in 2e-5 3e-5 5e-5
     do
-        for NUM_EPOCHS in 3 4
+        for NUM_EPOCHS in 30 50
         do
 
             echo "$i $LR $NUM_EPOCHS"

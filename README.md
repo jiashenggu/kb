@@ -241,6 +241,7 @@ perl -w bin/semeval2010_task8_scorer-v1.2.pl knowbert_predictions_semeval2010_ta
 ```
 
 #### WiC
+/nas/home/gujiashe/kb/training_config/downstream/wic.jsonnet
 
 Use `bin/write_wic_for_codalab.py` to write a file for submission to the CodaLab evaluation server.
 

@@ -5,3 +5,8 @@ log/
 build
 kb.egg-info
 dist
+knowbert_wiki_wordnet_model
+yago_output*
+wic
+.ipynb_checkpoints
+.pytest_cache

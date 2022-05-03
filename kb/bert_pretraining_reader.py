@@ -106,7 +106,8 @@ class BertTokenizerCandidateGeneratorMasker:
     def __init__(self,
                  tokenizer_and_candidate_generator: TokenizerAndCandidateGenerator,
                  max_predictions_per_seq: int = 20,
-                 masked_lm_prob: float = 0.15,
+                #  masked_lm_prob: float = 0.15,
+                masked_lm_prob: float = 1.0,
                  mask_candidate_strategy: str = 'none'):
 
         self.tokenizer_and_candidate_generator = tokenizer_and_candidate_generator
@@ -231,7 +232,8 @@ class BertPreTrainingReader(DatasetReader):
     def __init__(self,
                  tokenizer_and_candidate_generator: TokenizerAndCandidateGenerator,
                  max_predictions_per_seq: int = 20,
-                 masked_lm_prob: float = 0.15,
+                #  masked_lm_prob: float = 0.15,
+                masked_lm_prob: float = 1.0,
                  mask_candidate_strategy: str = 'none',
                  lazy: bool = False) -> None:
 
@@ -250,6 +252,7 @@ class BertPreTrainingReader(DatasetReader):
         with open(cached_path(file_path), 'r') as fin:
             for line in fin:
                 label, sentence1, sentence2 = line.strip().split('\t')
+                # print(label, sentence1, sentence2)
                 yield self.text_to_instance(sentence1, sentence2, int(label))
 
     def text_to_instance(self,
