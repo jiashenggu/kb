@@ -59,20 +59,20 @@
         "num_labels": 2,
         "task": "classification"
     },
-    "train_data_path": "/nas/home/gujiashe/critic/train1",
-    "validation_data_path": "/nas/home/gujiashe/critic/dev1",
+    "train_data_path": "/nas/home/gujiashe/kb/experiments/train",
+    "validation_data_path": "/nas/home/gujiashe/kb/experiments/dev",
     "trainer": {
         "cuda_device": 0,
         "gradient_accumulation_batch_size": 32,
         "learning_rate_scheduler": {
             "type": "slanted_triangular",
-            "num_epochs": 50,
+            "num_epochs": 10,
             "num_steps_per_epoch": 156
         },
         "moving_average": {
             "decay": 0.95
         },
-        "num_epochs": 50,
+        "num_epochs": 10,
         "num_serialized_models_to_keep": 1,
         "optimizer": {
             "type": "bert_adam",
