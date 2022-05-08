@@ -54,5 +54,5 @@ def write_for_official_eval(model_archive_file, test_file, output_file):
     #         fout.write("{}\n".format(p))
     logits = pd.DataFrame(logits)
     logits.to_csv(output_file, sep = '\t', header=None, index = None)
-write_for_official_eval('/nas/home/gujiashe/kb/yago_output/model.tar.gz', '/nas/home/gujiashe/critic/lp','/nas/home/gujiashe/critic/lp.logits.txt')
+write_for_official_eval('/nas/home/gujiashe/kb/yago_output1/model.tar.gz', '/nas/home/gujiashe/critic/lp','/nas/home/gujiashe/critic/lp1.logits.txt')
 
